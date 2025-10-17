@@ -1,0 +1,503 @@
+Nombre_de_la_cinta,Fecha_inicio_grabacion,Fecha_termino_grabacion,Duracion_total_cinta,Formato_cinta,Velocidad_cinta,YouTube_Link,Fecha_contenido,Contenido,Inicio,Termino,Duracion_segmento,Tags
+Video 1,05/07/1999,No definida,No Definida,8mm,SP,,00/00/00,LA INFANCIA DEL GABRIEL,00:00:00,,,
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,14/07/1999,Mi Mama en la Clinica Las Lilas,00:00:01,00:09:38,00:09:37,11
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,23/07/1999,Visita de la Ita y Juegos en Padre Hurtado,00:09:54,00:16:31,00:06:37,7
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,29/07/1999,Primer uso del Tripode mi Primera Grabacion,00:16:31,00:18:52,00:02:21,
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,01/08/1999,Dia del Niño en Padre Hurtado,00:18:52,00:26:33,00:07:41,7
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,01/09/1999,Juego de Escoba en Padre Hurtado,00:26:33,00:49:43,00:23:10,7
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,08/09/1999,Vaile Chilote del Gabriel,00:49:43,00:54:40,00:04:57,
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,11/09/1999,Celebracion de las Marias,00:54:40,01:13:07,00:18:27,
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,24/09/1999,El Gabriel Bailando en Padre Hurtado,01:13:07,01:14:00,00:00:53,7
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,08/10/1999,El Ex Dueño de la Camioneta,01:14:00,01:18:40,00:04:40,
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,10/10/1999,Gabriel Bailando con las cartas y Bailando,01:18:40,01:23:10,00:04:30,
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,10/10/1999,Visita a Mi Tio Lalo,01:23:10,01:32:28,00:09:18,7|8|10
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,22/10/1999,Grabacion al Charlie,01:32:28,01:33:19,00:00:51,
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,23/10/1999,La Maggy Lavando y El Gabriel en la Casa,01:33:19,01:35:02,00:01:43,
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,24/10/1999,El Gabriel en el Carrito Bailando,01:35:02,01:37:45,00:02:43,
+Video 2,19/07/1999,26/10/1999,02:26:47,8mm,SP,https://www.youtube.com/watch?v=qYmfil-yLeY&ab_channel=GerardoGaona,26/10/1999,La 1° Vez que Gabriel hizo caca en la Pelela,01:37:45,01:39:52,00:02:07,
+Video 3,24/09/1999,17/11/1999,02:00:00,8mm,SP,https://www.youtube.com/watch?v=jUrJjX3hjcw&feature=youtu.be,23/09/1999,Bautizo de la Kiara,00:00:00,00:24:04,00:24:04,7|8
+Video 3,24/09/1999,17/11/1999,02:00:00,8mm,SP,https://www.youtube.com/watch?v=jUrJjX3hjcw&feature=youtu.be,24/09/1999,Fiesta en la casa de la Tia Maiga,00:24:04,01:43:41,01:19:37,7|8
+Video 3,24/09/1999,17/11/1999,02:00:00,8mm,SP,https://www.youtube.com/watch?v=jUrJjX3hjcw&feature=youtu.be,17/11/1999,Canciones de la Abigail,01:43:41,02:00:00,00:16:19,5
+Video 4,17/09/1999,18/09/1999,01:58:33,8mm,SP,https://www.youtube.com/watch?v=_qCn7S1v8qA&feature=youtu.be,17/09/1999,Granja educativa del Plaza Oeste,00:00:00,00:02:41,00:00:00,
+Video 4,17/09/1999,18/09/1999,01:58:33,8mm,SP,https://www.youtube.com/watch?v=_qCn7S1v8qA&feature=youtu.be,17/09/1999,Baile Florkclorico,00:02:41,00:10:27,00:07:46,
+Video 4,17/09/1999,18/09/1999,01:58:33,8mm,SP,https://www.youtube.com/watch?v=_qCn7S1v8qA&feature=youtu.be,17/09/1999,En el Restaurant Llauquen,00:10:27,01:12:53,01:02:26,
+Video 4,17/09/1999,18/09/1999,01:58:33,8mm,SP,https://www.youtube.com/watch?v=_qCn7S1v8qA&feature=youtu.be,18/09/1999,Los Huasos Quincheros en el Plaza Oeste,01:12:53,01:27:12,00:14:19,
+Video 4,17/09/1999,18/09/1999,01:58:33,8mm,SP,https://www.youtube.com/watch?v=_qCn7S1v8qA&feature=youtu.be,19/09/1999,Rodeo en el Mall Paza Oeste,01:27:12,01:58:33,00:31:21,
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,29/10/1999,Paseo a San Antonio y Cartagena,00:00:00,00:10:40,00:00:00,7|8
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,30/10/1999,Juego de escoba en la playa y paseo a san antonio (a los juegos),00:10:40,00:55:39,00:44:59,7|8
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,31/10/1999,Azado en la playa,00:55:39,01:03:40,00:08:01,7|8
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,31/10/1999,Choque de regreso a santiago,01:03:40,01:06:32,00:02:52,7|8
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,03/11/1999,El gabriel en la casa,01:06:32,01:12:46,00:06:14,
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,01/11/1999,Visita de la Abuela a Santiago,01:12:46,01:13:56,00:01:10,12
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,06/11/1999,El gabriel almorzando,01:13:56,01:15:01,00:01:05,
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,07/11/1999,Armando la casa del Jardin,01:15:01,01:18:21,00:03:20,
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,08/11/1999,Bañando al gabriel y llenando la casa del jardin,01:18:21,01:19:47,00:01:26,
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,12/11/1999,Cumpleaño de la Abuela en la casa de la tia Clara,01:19:47,01:38:40,00:18:53,1|2|12
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,16/11/1999,Bañandose el Gabriel en la tina,01:38:40,01:41:49,00:03:09,
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,15/11/1999,Visita de la Tia Rosa a la casa de la tia clara,01:41:49,01:47:19,00:05:30,2|5|6|12
+Video 5,29/10/1999,17/11/1999,01:59:53,8mm,SP,https://www.youtube.com/watch?v=TtQGGi91yKw&feature=youtu.be,17/11/1999,Visita del peter y de la Abuela a nuestra casa,01:47:19,01:59:53,00:12:34,5|12
+Video 6,17/12/2001,04/10/2004,02:01:05,8mm,SP,https://www.youtube.com/watch?v=oIPPFVopfXU&feature=youtu.be,18/12/2001,Graduacion del Gabriel Del Jardin,00:00:00,00:31:07,00:31:07,
+Video 6,17/12/2001,04/10/2004,02:01:05,8mm,SP,https://www.youtube.com/watch?v=oIPPFVopfXU&feature=youtu.be,20/12/2001,El Gabriel Cantando Villanzicos en la Plaza Mayor,00:31:07,00:42:40,00:11:33,
+Video 6,17/12/2001,04/10/2004,02:01:05,8mm,SP,https://www.youtube.com/watch?v=oIPPFVopfXU&feature=youtu.be,24/12/2001,Navidad 2001 en la casa en Familia,00:42:40,00:50:05,00:07:25,
+Video 6,17/12/2001,04/10/2004,02:01:05,8mm,SP,https://www.youtube.com/watch?v=oIPPFVopfXU&feature=youtu.be,29/12/2001,Año Nuevo 2002 en la casa de mi Tia Maiga en Familia,00:50:05,01:35:42,00:45:37,7
+Video 6,17/12/2001,04/10/2004,02:01:05,8mm,SP,https://www.youtube.com/watch?v=oIPPFVopfXU&feature=youtu.be,14/09/2004,Circo en Maipu en Monumento Fuimos mi Papa y el Gabriel,01:35:42,01:55:49,00:20:07,
+Video 6,17/12/2001,04/10/2004,02:01:05,8mm,SP,https://www.youtube.com/watch?v=oIPPFVopfXU&feature=youtu.be,2004-10-05,Cumpleaños 59 de mi Mama,01:55:49,02:01:05,00:05:16,
+Video 7,19/11/1999,01/02/2000,01:59:32,8mm,SP,https://www.youtube.com/watch?v=tLI43yPpF0k&ab_channel=GerardoGaona,19/11/1999,Paseo al Cajon del Maipo Abuela,00:00:00,00:42:25,00:00:00,2|12
+Video 7,19/11/1999,01/02/2000,01:59:32,8mm,SP,https://www.youtube.com/watch?v=tLI43yPpF0k&ab_channel=GerardoGaona,27/11/1999,Aniversario del Jardin del Gabriel,00:42:25,01:04:06,00:21:41,
+Video 7,19/11/1999,01/02/2000,01:59:32,8mm,SP,https://www.youtube.com/watch?v=tLI43yPpF0k&ab_channel=GerardoGaona,04/12/1999,El Armado del Nuevo Arbol de Pascua,01:04:06,01:04:56,00:00:50,
+Video 7,19/11/1999,01/02/2000,01:59:32,8mm,SP,https://www.youtube.com/watch?v=tLI43yPpF0k&ab_channel=GerardoGaona,06/12/1999,Viaje a Rancagua y a Machali a visitar al Peter y la Abigail,01:04:56,01:24:54,00:19:58,5|10
+Video 7,19/11/1999,01/02/2000,01:59:32,8mm,SP,https://www.youtube.com/watch?v=tLI43yPpF0k&ab_channel=GerardoGaona,31/12/1999,2° Parte del Año Nuevo 2000 en Parral,01:24:54,01:25:23,00:00:29,6
+Video 7,19/11/1999,01/02/2000,01:59:32,8mm,SP,https://www.youtube.com/watch?v=tLI43yPpF0k&ab_channel=GerardoGaona,31/12/1999,En el rio Perquelauquen de Parral,01:25:23,01:33:35,00:08:12,3|6
+Video 7,19/11/1999,01/02/2000,01:59:32,8mm,SP,https://www.youtube.com/watch?v=tLI43yPpF0k&ab_channel=GerardoGaona,01/01/2000,Comida en la casa del Tio Roberto,01:33:35,01:59:32,00:25:57,3|6|12
+Video 8,17/12/1999,04/01/2000,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RyPl9g8DNBQ&ab_channel=GerardoGaona,17/12/1999,Viaje a Parral al Velorio de una Tia de mi Mamá y magia,00:00:00,00:45:51,00:00:00,3|4|6|12
+Video 8,17/12/1999,04/01/2000,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RyPl9g8DNBQ&ab_channel=GerardoGaona,21/12/1999,El Gabriel Disfrasado de Rey Mago Negro,00:45:51,01:08:45,00:22:54,
+Video 8,17/12/1999,04/01/2000,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RyPl9g8DNBQ&ab_channel=GerardoGaona,22/12/1999,Regreso desde Rancagua a Santiago,01:08:45,01:10:54,00:02:09,
+Video 8,17/12/1999,04/01/2000,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RyPl9g8DNBQ&ab_channel=GerardoGaona,30/12/1999,1° Parte del Año Nuevo 2000 en Parral,01:10:54,01:55:42,00:44:48,3|4|6|12
+Video 8,17/12/1999,04/01/2000,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RyPl9g8DNBQ&ab_channel=GerardoGaona,05/01/2000,El Gabriel Bañandose en la Tortuga,01:55:42,02:03:24,00:07:42,
+Video 9,28/11/1999,30/12/1999,02:01:37,8mm,SP,https://www.youtube.com/watch?v=rQ_wD9eyvmo&ab_channel=GerardoGaona,29/11/1999,EL Arbol de Pascua,00:00:00,00:02:07,00:02:07,
+Video 9,28/11/1999,30/12/1999,02:01:37,8mm,SP,https://www.youtube.com/watch?v=rQ_wD9eyvmo&ab_channel=GerardoGaona,04/12/1999,Fiesta de INDURA del Parque Hollywood,00:02:07,00:23:44,00:21:37,
+Video 9,28/11/1999,30/12/1999,02:01:37,8mm,SP,https://www.youtube.com/watch?v=rQ_wD9eyvmo&ab_channel=GerardoGaona,24/12/1999,Navidad 1999,00:23:44,01:01:36,00:37:52,
+Video 9,28/11/1999,30/12/1999,02:01:37,8mm,SP,https://www.youtube.com/watch?v=rQ_wD9eyvmo&ab_channel=GerardoGaona,24/12/1999,En Padre Hurtado al otro dia de la pascua,01:01:36,01:06:39,00:05:03,7
+Video 9,28/11/1999,30/12/1999,02:01:37,8mm,SP,https://www.youtube.com/watch?v=rQ_wD9eyvmo&ab_channel=GerardoGaona,26/12/1999,Fuegos Artificiales en el Mall Paza Oeste,01:06:39,01:45:15,00:38:36,
+Video 9,28/11/1999,30/12/1999,02:01:37,8mm,SP,https://www.youtube.com/watch?v=rQ_wD9eyvmo&ab_channel=GerardoGaona,29/12/1999,El Gabriel Jugando en la Moto,01:45:15,01:47:27,00:02:12,
+Video 9,28/11/1999,30/12/1999,02:01:37,8mm,SP,https://www.youtube.com/watch?v=rQ_wD9eyvmo&ab_channel=GerardoGaona,30/12/1999,EL Gabriel Corriendo en rancagua,01:47:27,01:52:24,00:04:57,
+Video 9,28/11/1999,30/12/1999,02:01:37,8mm,SP,https://www.youtube.com/watch?v=rQ_wD9eyvmo&ab_channel=GerardoGaona,30/12/1999,Viaje a Parral y el Gabriel Bailando,01:52:24,02:01:37,00:09:13,3
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,07/01/2000,Velorio y Funeral del Tio Lalo,00:00:00,00:34:55,00:00:00,7|8|10
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,07/01/2000,Cumpleaños N°3 de Gabriel y Cumpleaños Gerardo N° 19,00:34:55,00:44:06,00:09:11,
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,10/01/2000,El Gabriel Bañandose en la Piscina de tortuga,00:44:06,00:45:54,00:01:48,
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,10/01/2000,Paseo a la Cuesta Con la Tia Maiga,00:45:54,00:55:12,00:09:18,7
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,09/01/2000,Cumpleaños Gerardo N° 19,00:55:12,00:59:35,00:04:23,
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,20/01/2000,Eclipse Lunar,00:59:35,01:06:57,00:07:22,
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,23/01/2000,Viaje a la Playa Con Mi Tia Maiga,01:06:57,01:35:56,00:28:59,7
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,05/02/2000,A Mi Mama se la hincho la cara,01:35:56,01:36:54,00:00:58,
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,11/02/2000,El Gabriel Bailando y 1 año 4 meses despues,01:36:54,01:37:48,00:00:54,
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,11/02/2000,El Gabriel Pidiendo Disculpas por Haber usado el Rucht de la Maggy,01:37:48,01:38:10,00:00:22,
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,12/02/2000,Arcoiris,01:38:10,01:38:28,00:00:18,
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,03/01/2001,El Gabriel haciendo Tareas,01:38:28,01:39:57,00:01:29,
+Video 10,06/01/2000,02/01/2001,01:57:13,8mm,SP,https://www.youtube.com/watch?v=sCQJqdZgFK0&ab_channel=GerardoGaona,03/01/2001,1° Grabacion del Gabriel,01:39:57,01:57:13,00:17:16,
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,15/02/2000,Salida de Santiago y desayuno,00:00:00,00:10:24,00:10:24,
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,15/02/2000,Llegada a Tongoy y Almuerzo,00:10:24,00:13:12,00:02:48,
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,15/02/2000,Llegada a Coquimbo y a la Herradura,00:13:12,00:15:25,00:02:13,
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,15/02/2000,En Coquimbo en la Plaza de Noche,00:15:25,00:17:47,00:02:22,7
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,16/02/2000,Salida del La Herradura camping Almuerzo en la carretera,00:17:47,00:17:47,00:00:00,7
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,,Pasada por Vallenar el Zorro Y Llegada a copiapo,00:17:47,00:45:00,00:27:13,
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,17/02/2000,En la casa de la Tia Rosa y salida a conocer Copiapo,00:45:00,00:54:30,00:09:30,5|7
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,17/02/2000,Viaje a Calderaa la casa del Tio Lolo,00:54:30,00:57:11,00:02:41,7|9
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,18/02/2000,Paseo a la Playa de Baya Inglesa,00:57:11,01:12:00,00:14:49,7|9
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,19/02/2000,Preparando el Almuerzo y en la playa,01:12:00,01:21_07,22:49:21,7|9
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,20/02/2000,Salida de Caldara Almuerzo en Antofagasta,01:21_07,01:30:09,01:28:48,7
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,21/02/2000,Esperando en la carretera y la Llegada a Iquique,01:30:09,01:34:18,00:04:09,
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,22/02/2000,Subida a Alto ospicio con mi Papá,01:34:18,01:42:15,00:07:57,
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,22/02/2000,Ida a comprar al Mall Zofri,01:42:15,01:50:48,00:08:33,
+Video 11,14/02/2000,22/03/2000,02:03:29,8mm,SP,https://www.youtube.com/watch?v=WLO4X_p8KxY&ab_channel=GerardoGaona,23/03/2000,Salida de Iquique y Llegada a Tocopilla,01:50:48,02:03:29,00:12:41,
+Video 12,31/03/2000,24/11/2000,02:00:00,8mm,SP,https://www.youtube.com/watch?v=EhYaQOvMLW8&ab_channel=GerardoGaona,01/04/2000,FIDAE 2000,00:00:00,01:12:57,01:12:57,
+Video 12,31/03/2000,24/11/2000,02:00:00,8mm,SP,https://www.youtube.com/watch?v=EhYaQOvMLW8&ab_channel=GerardoGaona,06/04/2000,Cumpleaños de mi papa,01:12:57,01:17:50,00:04:53,
+Video 12,31/03/2000,24/11/2000,02:00:00,8mm,SP,https://www.youtube.com/watch?v=EhYaQOvMLW8&ab_channel=GerardoGaona,11/04/2000,Despedida de la señora carmen,01:17:50,01:19:47,00:01:57,
+Video 12,31/03/2000,24/11/2000,02:00:00,8mm,SP,https://www.youtube.com/watch?v=EhYaQOvMLW8&ab_channel=GerardoGaona,30/04/2000,Cuasimodo 2000,01:19:47,01:37:52,00:18:05,
+Video 12,31/03/2000,24/11/2000,02:00:00,8mm,SP,https://www.youtube.com/watch?v=EhYaQOvMLW8&ab_channel=GerardoGaona,31/10/2000,Paseo al sementerio de rancagua,01:37:52,01:39:24,00:01:32,7|8
+Video 12,31/03/2000,24/11/2000,02:00:00,8mm,SP,https://www.youtube.com/watch?v=EhYaQOvMLW8&ab_channel=GerardoGaona,25/11/2000,Fiesta INDURA en Fantasilandia 2000,01:39:24,02:00:00,00:20:36,
+Video 13,18/03/2000,26/04/2000,02:03:32,8mm,SP,https://www.youtube.com/watch?v=d2ULzx0pSgE&ab_channel=GerardoGaona,19/03/2000,Inauguracion de la Casa del Andres,00:00:00,00:58:10,00:00:00,7|8
+Video 13,18/03/2000,26/04/2000,02:03:32,8mm,SP,https://www.youtube.com/watch?v=d2ULzx0pSgE&ab_channel=GerardoGaona,21/04/2000,Paseo a Pichilemu,00:58:10,01:02:07,00:03:57,7
+Video 13,18/03/2000,26/04/2000,02:03:32,8mm,SP,https://www.youtube.com/watch?v=d2ULzx0pSgE&ab_channel=GerardoGaona,22/04/2000,Paseo a Los Salares,01:02:07,01:11:23,00:09:16,7
+Video 13,18/03/2000,26/04/2000,02:03:32,8mm,SP,https://www.youtube.com/watch?v=d2ULzx0pSgE&ab_channel=GerardoGaona,22/04/2000,Paseo en lancha en Cahuil,01:11:23,01:18:01,00:06:38,7
+Video 13,18/03/2000,26/04/2000,02:03:32,8mm,SP,https://www.youtube.com/watch?v=d2ULzx0pSgE&ab_channel=GerardoGaona,22/04/2000,En las Rocas sacando Cochayullo,01:18:01,01:22:17,00:04:16,7
+Video 13,18/03/2000,26/04/2000,02:03:32,8mm,SP,https://www.youtube.com/watch?v=d2ULzx0pSgE&ab_channel=GerardoGaona,22/04/2000,Paseo en Motos en la Arena,01:22:17,01:32:57,00:10:40,7
+Video 13,18/03/2000,26/04/2000,02:03:32,8mm,SP,https://www.youtube.com/watch?v=d2ULzx0pSgE&ab_channel=GerardoGaona,23/04/2000,Los Llaneros de la Frontera en Pichilemu y despedida,01:32:57,02:01:24,00:28:27,7
+Video 13,18/03/2000,26/04/2000,02:03:32,8mm,SP,https://www.youtube.com/watch?v=d2ULzx0pSgE&ab_channel=GerardoGaona,23/04/2000,El Gabriel Buscando los Huevos de Pascua,02:01:24,02:03:05,00:01:41,
+Video 13,18/03/2000,26/04/2000,02:03:32,8mm,SP,https://www.youtube.com/watch?v=d2ULzx0pSgE&ab_channel=GerardoGaona,27/04/2000,El Gabriel Cantando canciones del Jardin,02:03:05,02:03:32,00:00:27,
+Video 14,31/01/2000,06/04/2002,01:53:05,8mm,SP,https://www.youtube.com/watch?v=aC_hrKJ6fEk&feature=youtu.be,27/04/2000,Paseo a Sor Teresa de los Andes con mi tia Maiga,00:00:00,00:06:56,00:00:00,7
+Video 14,31/01/2000,06/04/2002,01:53:05,8mm,SP,https://www.youtube.com/watch?v=aC_hrKJ6fEk&feature=youtu.be,29/04/2000,Subida a la Cordillera Pero no llegamos porque no quisieron,00:06:56,00:11:48,00:04:52,7
+Video 14,31/01/2000,06/04/2002,01:53:05,8mm,SP,https://www.youtube.com/watch?v=aC_hrKJ6fEk&feature=youtu.be,17/06/2000,Azado del dia del Padre y el Gabriel cantando con el Tripode,00:11:48,00:19:19,00:07:31,
+Video 14,31/01/2000,06/04/2002,01:53:05,8mm,SP,https://www.youtube.com/watch?v=aC_hrKJ6fEk&feature=youtu.be,17/06/2000,La Camioneta en el tunel de lavado,00:19:19,00:23:15,00:03:56,
+Video 14,31/01/2000,06/04/2002,01:53:05,8mm,SP,https://www.youtube.com/watch?v=aC_hrKJ6fEk&feature=youtu.be,29/06/2000,Bingo a beneficio y la Sivana bailando en un concurso,00:23:15,00:57:10,00:33:55,7
+Video 14,31/01/2000,06/04/2002,01:53:05,8mm,SP,https://www.youtube.com/watch?v=aC_hrKJ6fEk&feature=youtu.be,04/07/2000,Revista de Gimnasia del Jardin de Gabriel,00:57:10,01:17:07,00:19:57,
+Video 14,31/01/2000,06/04/2002,01:53:05,8mm,SP,https://www.youtube.com/watch?v=aC_hrKJ6fEk&feature=youtu.be,05/08/2000,Dia del Niño,01:17:07,01:21:19,00:04:12,
+Video 14,31/01/2000,06/04/2002,01:53:05,8mm,SP,https://www.youtube.com/watch?v=aC_hrKJ6fEk&feature=youtu.be,05/04/2002,Cumpleaños de mi Papá N°57,01:21:19,01:22:59,00:01:40,
+Video 14,31/01/2000,06/04/2002,01:53:05,8mm,SP,https://www.youtube.com/watch?v=aC_hrKJ6fEk&feature=youtu.be,06/04/2002,Cuasimodo 2002,01:22:59,01:28:33,00:05:34,
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,23/02/2000,Salida de Tocopilla y Llegada a Antofagasta,00:00:00,00:10:19,00:10:19,
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,23/02/2000,La Portada de Antofagasta y Salida de Antofagasta,00:10:19,00:25:44,00:15:25,7
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,23/02/2000,Llegada a Caldera,00:25:44,00:28:47,00:03:03,
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,24/02/2000,Almuerzo en Caldera,00:28:47,00:30:13,00:01:26,7|9
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,25/02/2000,Visita al Hospital al Tio Lalo de Copiapo,00:30:13,00:33:49,00:03:36,5|7
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,26/02/2000,En un Taco en Direccion a Santiago,00:33:49,00:35:09,00:01:20,
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,26/02/2000,Almorzando en una COPEC en la serena,00:35:09,00:36:32,00:01:23,7
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,26/02/2000,Pasada por Coquimbo y Llegada a Santiago,00:36:32,00:45:47,00:09:15,
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,09/09/2000,El Gabriel Bailando de Huaso,00:45:47,00:57:43,00:11:56,
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,13/09/2000,Granisos en Maipú,00:57:43,01:02:10,00:04:27,
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,15/09/2000,La Silvana y el Felix Bailando Cueca en una Kermese,01:02:10,01:16:55,00:14:45,7
+Video 15,22/02/2000,20/10/2000,02:02:50,8mm,SP,https://www.youtube.com/watch?v=qo_IWWF8Zmg&ab_channel=GerardoGaona,21/10/2000,Kermese en el Colegio de la Dennise,01:16:55,02:02:50,00:45:55,7
+Video 16,11/05/2000,02/09/2000,00:52:17,8mm,SP,https://www.youtube.com/watch?v=YWPJBaKqVlM&feature=youtu.be,12/05/2000,El Dia de la Mamá en el Jardin de Gabriel,00:00:00,00:23:20,00:23:20,
+Video 16,11/05/2000,02/09/2000,00:52:17,8mm,SP,https://www.youtube.com/watch?v=YWPJBaKqVlM&feature=youtu.be,13/05/2000,Azado en la casa por la Llegada de la Chavela,00:23:20,00:32:06,00:08:46,3
+Video 16,11/05/2000,02/09/2000,00:52:17,8mm,SP,https://www.youtube.com/watch?v=YWPJBaKqVlM&feature=youtu.be,11/08/2000,Visita a la Casa de mi tio Lolo,00:32:06,00:41:46,00:09:40,7|9
+Video 16,11/05/2000,02/09/2000,00:52:17,8mm,SP,https://www.youtube.com/watch?v=YWPJBaKqVlM&feature=youtu.be,20/08/2000,El Gabriel Bailando en la casa,00:41:46,00:43:33,00:01:47,
+Video 16,11/05/2000,02/09/2000,00:52:17,8mm,SP,https://www.youtube.com/watch?v=YWPJBaKqVlM&feature=youtu.be,20/08/2000,Mi Mamá en el Hospital del Profesor,00:43:33,00:44:54,00:01:21,
+Video 16,11/05/2000,02/09/2000,00:52:17,8mm,SP,https://www.youtube.com/watch?v=YWPJBaKqVlM&feature=youtu.be,26/08/2000,Paseo a San Antonio Con mi tia Maiga,00:44:54,00:51:28,00:06:34,7|8
+Video 16,11/05/2000,02/09/2000,00:52:17,8mm,SP,https://www.youtube.com/watch?v=YWPJBaKqVlM&feature=youtu.be,03/09/2000,En Graneros donde el Mecanico,00:51:28,00:52:17,00:00:49,
+Video 17,16/09/2000,13/10/2000,02:02.10,8mm,SP,https://www.youtube.com/watch?v=05megeL_OFM&ab_channel=GerardoGaona,17/09/2000,Fiestas Patrias 2000 azado en la casa de mi Tia Maiga,00:00:00,00:01:10,00:00:00,7
+Video 17,16/09/2000,13/10/2000,02:02.10,8mm,SP,https://www.youtube.com/watch?v=05megeL_OFM&ab_channel=GerardoGaona,17/09/2000,Elevando Cometas en el Potrero,00:01:10,00:09:27,00:08:17,7
+Video 17,16/09/2000,13/10/2000,02:02.10,8mm,SP,https://www.youtube.com/watch?v=05megeL_OFM&ab_channel=GerardoGaona,17/09/2000,La Silvana Bailando Cueca en el Mall,00:09:27,00:15:10,00:05:43,7
+Video 17,16/09/2000,13/10/2000,02:02.10,8mm,SP,https://www.youtube.com/watch?v=05megeL_OFM&ab_channel=GerardoGaona,17/09/2000,Todos nosotros en un Restaurant Solos,00:15:10,00:50:24,00:35:14,7
+Video 17,16/09/2000,13/10/2000,02:02.10,8mm,SP,https://www.youtube.com/watch?v=05megeL_OFM&ab_channel=GerardoGaona,18/02/2000,Elevando Cometas en el Potrero,00:50:24,00:52:13,00:01:49,7
+Video 17,16/09/2000,13/10/2000,02:02.10,8mm,SP,https://www.youtube.com/watch?v=05megeL_OFM&ab_channel=GerardoGaona,05/10/2000,Cumpleaños de mi Mamá,00:52:13,00:58:28,00:06:15,
+Video 17,16/09/2000,13/10/2000,02:02.10,8mm,SP,https://www.youtube.com/watch?v=05megeL_OFM&ab_channel=GerardoGaona,07/10/2000,Viaje a Parral con mi Tia Maiga y la Carola,00:58:28,01:17:12,00:18:44,7
+Video 17,16/09/2000,13/10/2000,02:02.10,8mm,SP,https://www.youtube.com/watch?v=05megeL_OFM&ab_channel=GerardoGaona,08/10/2000,Paseo a las Termas de Catillo,01:17:12,01:27:22,00:10:10,7
+Video 17,16/09/2000,13/10/2000,02:02.10,8mm,SP,https://www.youtube.com/watch?v=05megeL_OFM&ab_channel=GerardoGaona,09/10/2000,Regreso a Santiago,01:27:22,01:28:05,00:00:43,7|12
+Video 17,16/09/2000,13/10/2000,02:02.10,8mm,SP,https://www.youtube.com/watch?v=05megeL_OFM&ab_channel=GerardoGaona,13/10/2000,Velorio de la Abuela Teresa,01:28:05,01:40:32,00:12:27,
+Video 17,16/09/2000,13/10/2000,02:02.10,8mm,SP,https://www.youtube.com/watch?v=05megeL_OFM&ab_channel=GerardoGaona,14/10/2000,Velorio Funeral y Misa de la Abuela Teresa,01:40:32,02:02:10,00:21:38,
+Video 18,06/05/2004,21/10/2000,02:00.00,8mm,SP,https://www.youtube.com/watch?v=CBICCohrDcM&ab_channel=GerardoGaona,07/05/2004,Concierto de la Maria Jose En el Estadio Chile por el dia de la Madre,00:00:00,01:44:37,00:00:00,
+Video 18,06/05/2004,21/10/2000,02:00.00,8mm,SP,https://www.youtube.com/watch?v=CBICCohrDcM&ab_channel=GerardoGaona,08/05/2004,Azado del dia de la Madre con el Nelson y la Sandra,01:44:37,01:49:03,00:04:26,6
+Video 18,06/05/2004,21/10/2000,02:00.00,8mm,SP,https://www.youtube.com/watch?v=CBICCohrDcM&ab_channel=GerardoGaona,18/06/2004,Mi Mama Haciendo longanizas,01:49:03,01:50:57,00:01:54,
+Video 18,06/05/2004,21/10/2000,02:00.00,8mm,SP,https://www.youtube.com/watch?v=CBICCohrDcM&ab_channel=GerardoGaona,14/09/2004,El Gabriel Bailando en el colegio para las Fiestas Patrias,01:50:57,01:58:06,00:07:09,
+Video 18,06/05/2004,21/10/2000,02:00.00,8mm,SP,https://www.youtube.com/watch?v=CBICCohrDcM&ab_channel=GerardoGaona,12/12/2004,Lenado de la piscina,01:58:06,02:00:00,00:01:54,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,08/11/2000,Paseo a Viña y Valparaiso Del 4°B,00:00:00,00:25:00,00:25:00,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,15/11/2000,Recuerdo del colegio,00:25:00,00:33:00,00:08:00,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,04/12/2000,Salida de Santiago de Gira de Estudios,00:33:00,00:35:31,00:02:31,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,04/12/2000,Temuco,00:35:31,00:37:31,00:02:00,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,04/12/2000,En un Colegio de Valdivia,00:37:31,00:50:48,00:13:17,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,05/12/2000,En el Rio Calle Calle y un Paseo en Bote,00:50:48,00:57:00,00:06:12,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,05/12/2000,En la Playa de Niebla y El Fuerte Niebla,00:57:00,01:02:54,00:05:54,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,06/12/2000,Cruzando el Canal de Chacao hacia Chiloe,01:02:54,01:08:20,00:05:26,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,07/12/2000,Paseo al Mercado de Castro,01:08:20,01:11:01,00:02:41,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,07/12/2000,Cruse de Buelta por el canal de Chacao Hacia Puerto Montt,01:11:01,01:15:20,00:04:19,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,08/12/2000,Preparando el Almuerzo en Villarica,01:15:20,01:19:28,00:04:08,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,08/12/2000,Camping en el Lago Caburga,01:19:28,01:28:26,00:08:58,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,08/12/2000,Fogata en el Camping y al Otro dia en el lago,01:28:26,01:34:05,00:05:39,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,10/12/2000,Salida del Camping,01:34:05,01:35:55,00:01:50,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,10/12/2000,Visita al Salto del Laja y Llegada a Santiago,01:35:55,01:39:46,00:03:51,
+Video 19,08/11/2000,12/12/2000,02:03.24,8mm,SP,,12/12/2000,Reunion en la casa de la Lela,01:39:46,02:03:24,00:23:38,
+Video 20,14/12/2000,12/01/2001,00:58.00,8mm,SP,https://www.youtube.com/watch?v=YVAsKc295n4&feature=youtu.be,15/12/2000,Villanzicos en el UNIMARC,00:00:00,00:20:18,00:20:18,
+Video 20,14/12/2000,12/01/2001,00:58.00,8mm,SP,https://www.youtube.com/watch?v=YVAsKc295n4&feature=youtu.be,21/12/2000,Villanzicos en el Jardin el encuentro,00:20:18,00:49:12,00:28:54,
+Video 20,14/12/2000,12/01/2001,00:58.00,8mm,SP,https://www.youtube.com/watch?v=YVAsKc295n4&feature=youtu.be,24/12/2000,Navidad 2000 con la Sole y el Ale,00:49:12,00:52:12,00:03:00,
+Video 20,14/12/2000,12/01/2001,00:58.00,8mm,SP,https://www.youtube.com/watch?v=YVAsKc295n4&feature=youtu.be,08/01/2001,Cumpleaños Numero 4 del Gabriel,00:52:12,00:55:56,00:03:44,
+Video 20,14/12/2000,12/01/2001,00:58.00,8mm,SP,https://www.youtube.com/watch?v=YVAsKc295n4&feature=youtu.be,10/01/2001,Cumpleaños Numero 20 del Gerardo,00:55:56,00:57:07,00:01:11,
+Video 20,14/12/2000,12/01/2001,00:58.00,8mm,SP,https://www.youtube.com/watch?v=YVAsKc295n4&feature=youtu.be,12/01/2001,Visita de mis Padrinos y mi Tia Maiga,00:57:07,00:58:00,00:00:53,7
+Video 21,15/12/2000,03/01/2001,02:00:33,8mm,SP,https://www.youtube.com/watch?v=W4Jv-DUpmWY&feature=youtu.be,15/12/2000,Bautizo del Diego,00:00:00,00:21:10,00:00:00,7|8
+Video 21,15/12/2000,03/01/2001,02:00:33,8mm,SP,https://www.youtube.com/watch?v=W4Jv-DUpmWY&feature=youtu.be,15/12/2000,Fiesta del Bautizo del Diego,00:21:10,00:53:52,00:32:42,7|8
+Video 21,15/12/2000,03/01/2001,02:00:33,8mm,SP,https://www.youtube.com/watch?v=W4Jv-DUpmWY&feature=youtu.be,29/12/2000,Azado en Parral en Familia,00:53:52,00:56:46,00:02:54,3|4|6
+Video 21,15/12/2000,03/01/2001,02:00:33,8mm,SP,https://www.youtube.com/watch?v=W4Jv-DUpmWY&feature=youtu.be,30/12/2000,En el Rio Perquelauquen en Parral puros Hombres,00:56:46,01:00:54,00:04:08,3|6
+Video 21,15/12/2000,03/01/2001,02:00:33,8mm,SP,https://www.youtube.com/watch?v=W4Jv-DUpmWY&feature=youtu.be,31/12/2000,El Gabriel Tirando piedras mientras mi Mamá Hace el Azado,01:00:54,01:02:05,00:01:11,
+Video 21,15/12/2000,03/01/2001,02:00:33,8mm,SP,https://www.youtube.com/watch?v=W4Jv-DUpmWY&feature=youtu.be,30/12/2000,Año Nuevo 2001 En Parral,01:02:05,01:51:08,00:49:03,3|4|6
+Video 21,15/12/2000,03/01/2001,02:00:33,8mm,SP,https://www.youtube.com/watch?v=W4Jv-DUpmWY&feature=youtu.be,04/01/2001,Operacion del Gabriel de las Amigdalas y su Recuperacion,01:51:08,02:00:33,00:09:25,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,25/02/2001,El Gabriel pescando en la semana Parralina,00:00:00,00:00:39,00:00:39,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,01/03/2001,En Cartagena con la Mari la Carola el Horacio y la Maggy,00:00:39,00:19:15,00:18:36,2|7
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,04/03/2001,En San Antonio dando un Paseo en Lancha,00:19:15,00:21:19,00:02:04,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,06/04/2001,Selebrando can un Azado el Cumpleaño de mi Papá,00:21:19,00:25:19,00:04:00,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,13/04/2001,En la casa del Nelson En Semana Santa con la visita de mi Tio Roberto,00:25:19,00:32:04,00:06:45,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,14/04/2001,Paseo a Sor Teresa de los Andes con la Chavela,00:32:04,00:36:32,00:04:28,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,15/04/2001,Visita de la Marta el Tio Roberto la Sandra el Nelson y la Chavela,00:36:32,00:46:38,00:10:06,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,,El Cuasimodo 2001,00:46:38,00:48:50,00:02:12,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,11/05/2001,El Gabriel Bailando Rock & Roll en el Jardin,00:48:50,00:55:00,00:06:10,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,,El Supuesto OVNI que vio mi Papá,00:55:00,00:56:15,00:01:15,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,22/06/2001,El Gabriel Bailando en mi piesa,00:56:15,01:03:53,00:07:38,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,,Exposicion OVNI ANIMATRONIC en la Estacion Mapocho,01:03:53,01:16:19,00:12:26,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,03/08/2001,1° operacion de mi Papá a las Piernas,01:16:19,01:18:34,00:02:15,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,31/08/2001,Visita de mi Tia Maria y la Margarita,01:18:34,01:20:02,00:01:28,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,08/09/2001,El Gabriel Bailando de Campesino en el Jardin,01:20:02,01:30:17,00:10:15,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,09/09/2001,2° operacion de mi Papá a las Piernas,01:30:17,01:32:03,00:01:46,
+Video 22,24/02/2001,14/09/2001,02:00:20,8mm,SP,https://www.youtube.com/watch?v=NjuuluETYiU&ab_channel=GerardoGaona,15/09/2001,El Cumpleaño del Alexander,01:32:03,02:00:20,00:28:17,
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,27/01/2001,Paseo al cajon del Maipo con el Felipe y mi Tia Clara,00:00:00,00:02:46,00:00:00,2|3|6
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,31/01/2001,Paseo a San Antonio en la noche a los Juegos y a la Lota,00:02:46,00:09:20,00:06:34,2|3|6
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,02/02/2001,Exivision de lobos marinos en San Antonio,00:09:20,00:25:15,00:15:55,
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,01/02/2001,Almuerso en la casa (pescado Frito),00:25:15,00:26:28,00:01:13,2|3|6
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,01/02/2001,Paseo a la Playa del Tabo Nelson Tia Chavela,00:26:28,00:32:48,00:06:20,2|3|6
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,01/02/2001,Azado en la casa de noche con Baile,00:32:48,00:50:35,00:17:47,2|3|6
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,02/02/2001,En San Antonio en las Rocas,00:50:35,01:11:04,00:20:29,2|3|6
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,12/02/2001,Grabacion del Puente Gaona,01:11:04,01:11:30,00:00:26,
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,11/02/2001,Llegada a concepcion frente al Estadio La Tortuga,01:11:30,01:13:04,00:01:34,2
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,12/02/2001,Al otro dia en el Camping del Salto del Laja,01:13:04,01:15:18,00:02:14,2
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,13/02/2001,1° Visita al Salto del Laja,01:15:18,01:21:58,00:06:40,
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,14/02/2001,2° visita al salto del Laja Pero desde Arriba,01:21:58,01:23:30,00:01:32,
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,15/02/2001,Bañandono en el Rio Laja,01:23:30,01:33:42,00:10:12,
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,17/02/2001,Almuerzo en el Rio Laja Con Viento Fuerte y Salida del Camping,01:33:42,01:35:25,00:01:43,
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,17/02/2001,Inauguracion del Campeonato de Futboll de Parral,01:35:25,01:46:49,00:11:24,
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,18/02/2001,En el Rio tratando de Pescar,01:46:49,01:50:48,00:03:59,
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,21/02/2001,El Gabriel y el Abel en autitos a Pedales en la plaza chica y otros,01:50:48,01:55:55,00:05:07,
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,23/02/2001,El Gabriel Bailando yo no fui,01:55:55,01:58:02,00:02:07,
+Video 23,27/01/2001,20/02/2001,02:02:23,8mm,SP,https://www.youtube.com/watch?v=gRv_I0SV56c&ab_channel=GerardoGaona,23/02/2001,El Abel y el Horacio en las tazitas y pescando con el tio pato,01:58:02,,,
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,17/09/2001,Fiestas Patrias 2001 Azado en la casa de mi Tia Maiga,00:00:00,00:02:03,00:00:00,7
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,17/09/2001,Elevando Cometas en el Cerro,00:02:03,00:04:20,00:02:17,7
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,17/09/2001,En las Ramadas o Fondas,00:04:20,00:08:02,00:03:42,7
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,18/09/2001,Almorzando en la casa de mi tia Maiga,00:08:02,00:08:46,00:00:44,7
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,12/10/2001,Misa de la Abuela Teresa,00:08:46,00:21:41,00:12:55,1|2|3|7
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,12/10/2001,Once en la casa de mi tia Clara y Cumpleaño del Horacio,00:21:41,00:26:54,00:05:13,1|2|3|7
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,13/10/2001,Azado en la casa con la Visita de la Tia Chavala,00:26:54,00:27:51,00:00:57,3
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,14/10/2001,Paseo al Zoologico con la Chavela y el Abel,00:27:51,00:44:20,00:16:29,3
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,18/10/2001,El Gabriel disfrazado de Payaso en el Jardin,00:44:20,00:47:03,00:02:43,
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,23/10/2001,La Batalla de Maipu Representada en el Templo,00:47:03,01:00:40,00:13:37,
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,04/01/2002,El Gabriel Bañandose en Rancagua con el Nicolas,01:02:06,01:09:19,00:07:13,10
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,08/01/2002,El Cumpleaños N° 5 y Cumpleaños Gerardo N° 21,01:09:19,01:13:24,00:04:05,
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,18/01/2002,Paseo a la Laguna de Aculeo con el Horacio Asta el 20/01/2002,01:13:24,01:19:02,00:05:38,2
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,27/01/2002,El Gabriel Bañandose en la piscina solo,01:19:02,01:25:07,00:06:05,
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,01/02/2002,Paseo a la Laguna de Aculeo con la Maggy,01:25:07,01:25:35,00:00:28,
+Video24,17/09/2001,05/04/2002,02:00:22,8mm,SP,https://www.youtube.com/watch?v=6o6fytXNUEc&ab_channel=GerardoGaona,05/04/2002,FIDAE  2002,01:25:35,01:59:02,00:33:27,
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,09/04/2004,En Cartagena con la silvana la carola el alexander,00:00:00,00:06:57,00:00:00,7
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,2004-04-10,En San Antonio los lobos Marinos en el muelle,00:06:57,00:11:06,00:04:09,
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,10/04/2004,En los Juegos de San Antonio,00:11:06,00:12:45,00:01:39,7
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,11/04/2004,Jugando lota en la casa de mi tia,00:12:45,00:14:13,00:01:28,7|8
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,11/04/2004,En Cartagena con el alexander Jugando con arena,00:14:13,00:18:21,00:04:08,7
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,18/04/2004,Cuasimodo 2004,00:18:21,00:23:22,00:05:01,
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,2004-05-21,Paseo a la Virgen de lo Basques,00:23:22,00:24:33,00:01:11,
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,2004-05-21,Valparaiso Parada militar del 21 de mayo,00:24:33,00:33:00,00:08:27,
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,2004-05-23,Visita al tio Lalo al Cementerio de Rancagua,00:33:00,00:34:25,00:01:25,
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,2004-07-09,El Gabriel Bailando Nortino en el Colegio,00:34:25,00:41:20,00:06:55,
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,,Visita de la paty al templo de maipu,00:41:20,00:45:31,00:04:11,4
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,2004-09-17,Fiestas Patrias 2004 en casa solos,00:45:31,00:50:55,00:05:24,
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,18/09/2024,Visita del nelson y mi tio roberto,00:50:55,00:56:54,00:05:59,6
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,00/00/00,Equitacion en camino Rinconada,00:56:54,01:19:06,00:22:12,
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,27/11/2004,Jugando en la arena de cartagena el isaac el brian y el gabriel,01:19:06,01:31:05,00:11:59,7
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,28/11/2004,el felix bañandose en la playa con el isaac,01:31:05,01:37:53,00:06:48,7
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,29/11/2004,Sacandose fotos afuera de la casa de la tia Valentina en cartagena,01:37:53,01:41:47,00:03:54,7|8
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,2006-04-06,Cumpleaños de mi Papá,01:41:47,01:59:26,00:17:39,
+Video 25,08/04/2004,05/04/2006,02:00:04,8mm,SP,https://www.youtube.com/watch?v=wAnjhc4rpSg&ab_channel=GerardoGaona,2001-11-16,Santo de la Maggy,01:59:26,02:00:04,00:00:38,
+Video 26,16/11/2001,13/12/2001,01:56:59,8mm,SP,https://www.youtube.com/watch?v=eNa1_Cr4y3Y&ab_channel=GerardoGaona,17/11/2001,Azado en Parral En Familia Estaba mi tia Clara y mi tia Maiga,00:00:00,00:02:42,00:00:00,2|3|4|6|7
+Video 26,16/11/2001,13/12/2001,01:56:59,8mm,SP,https://www.youtube.com/watch?v=eNa1_Cr4y3Y&ab_channel=GerardoGaona,18/11/2001,Primera Comunion del Abel,00:02:42,00:31:16,00:28:34,2|3|4|6|7
+Video 26,16/11/2001,13/12/2001,01:56:59,8mm,SP,https://www.youtube.com/watch?v=eNa1_Cr4y3Y&ab_channel=GerardoGaona,01/12/2001,Fiesta Navideña de INDURA en FANTASILANDIA,00:31:16,00:47:37,00:16:21,
+Video 26,16/11/2001,13/12/2001,01:56:59,8mm,SP,https://www.youtube.com/watch?v=eNa1_Cr4y3Y&ab_channel=GerardoGaona,02/12/2001,Paseo a Sor Teresa de los Andes Con mi tia Clara,00:47:37,01:00:01,00:12:24,2|7
+Video 26,16/11/2001,13/12/2001,01:56:59,8mm,SP,https://www.youtube.com/watch?v=eNa1_Cr4y3Y&ab_channel=GerardoGaona,02/12/2001,Paseo a la Cordillera con mi Tia Clara y mi Tia Maiga,01:00:01,01:10:24,00:10:23,2|7
+Video 26,16/11/2001,13/12/2001,01:56:59,8mm,SP,https://www.youtube.com/watch?v=eNa1_Cr4y3Y&ab_channel=GerardoGaona,08/12/2001,Paseo a San Antonio Con mi Tia Maria y mi tia Maiga,01:10:24,01:12:49,00:02:25,7|8|10
+Video 26,16/11/2001,13/12/2001,01:56:59,8mm,SP,https://www.youtube.com/watch?v=eNa1_Cr4y3Y&ab_channel=GerardoGaona,08/12/2001,Bajada a la Playa Con la Silvana y mi Papá,01:12:49,01:23:38,00:10:49,7
+Video 26,16/11/2001,13/12/2001,01:56:59,8mm,SP,https://www.youtube.com/watch?v=eNa1_Cr4y3Y&ab_channel=GerardoGaona,08/12/2001,Juego de lota en la casa y la Carola tirando Piedras a otra casa,01:23:38,01:29:43,00:06:05,7|8|10
+Video 26,16/11/2001,13/12/2001,01:56:59,8mm,SP,https://www.youtube.com/watch?v=eNa1_Cr4y3Y&ab_channel=GerardoGaona,09/12/2001,En la Playa andando en Moto y Recojiendo Conchas de mar,01:29:43,01:42:37,00:12:54,7
+Video 26,16/11/2001,13/12/2001,01:56:59,8mm,SP,https://www.youtube.com/watch?v=eNa1_Cr4y3Y&ab_channel=GerardoGaona,14/12/2001,El Gabriel cantando Villanzicos en la Panaderia Jargui,01:42:37,01:56:59,00:14:22,
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,08/02/2002,Conociendo los alrededores de la casa Tio Eduardo y Azado en la noche,00:00:00,00:05:06,00:00:00,1|2
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,09/02/2002,Mi tia Clara haciendo pastel de choclo,00:05:06,00:09:33,00:04:27,1|2
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,09/02/2002,Pescando con mi papa en un puente,00:09:33,00:10:52,00:01:19,1|2|3
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,11/02/2002,Cazando conejos con el Horacio y mi tio Eduardo,00:10:52,00:19:38,00:08:46,2
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,12/02/2002,MI Papa conociendo los alrededores,00:19:38,00:22:35,00:02:57,1|3
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,16/02/2002,Azado en la casa de mi tia Valentina,00:22:35,00:23:14,00:00:39,2|3|7|8
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,16/02/2002,Paseo en moto del Horacio Abel y Mio y los demas en los juegos,00:23:14,00:35:08,00:11:54,2|3|7|8
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,18/02/2002,Paseo en moto del Gabriel,00:35:08,00:40:10,00:05:02,2|3|7|8
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,19/02/2002,Paseo en lancha de mi Papa,00:40:10,Lalo,00:00:00,2|3|7
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,19/02/2002,Fuimos a la Playa las salinas,Lalo,01:00:52,00:00:00,2|3|7
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,21/02/2002,Cumpleaños de la maggy,01:00:52,01:04:26,00:03:34,3
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,24/02/2002,En Quilimari en la casa donde trabaja don Jaime,01:04:26,01:10:04,00:05:38,2
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,25/02/2002,Paseo al Muelle de lo vilos,01:10:04,01:16:21,00:06:17,2
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,25/02/2002,Azado en la casa y Jugando Taca-Taca,01:16:21,01:22:40,00:06:19,2
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,26/02/2002,Visita a una Iglesia de piedras a la Playa y Jugando con el Boomerang,01:22:40,01:43:27,00:20:47,2
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,27/02/2002,Preparacion del almuerzo Vista de la casa y trucos de magia,01:43:27,01:43:27,00:00:00,2
+Video 27,07/02/2002,02/03/2002,01:52:40,8mm,SP,https://www.youtube.com/watch?v=A98UZ0797TQ&ab_channel=GerardoGaona,04/03/2002,Primer dia de colegio del Gabriel,01:43:27,01:52:40,00:09:13,
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,13/04/2002,Cachureos 2002,00:00:00,00:13:06,00:13:06,
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,16/04/2002,Operacion del Gabriel del (*#,00:13:06,00:20:42,00:07:36,
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,11/05/2002,Feliz dia Mamá,00:20:42,00:26:24,00:05:42,
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,20/05/2002,Pescando en parral Con mi tio Pato y el Horacio,00:26:24,00:29:49,00:03:25,2|3|4
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,20/05/2002,Jugando con el Skate el Abel,00:29:49,00:32:36,00:02:47,2|3|4
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,30/06/2002,Rompe Cabezas Armado,00:32:36,00:33:05,00:00:29,
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,02/07/2002,La Sandra embarazada del Franco,00:33:05,00:33:58,00:00:53,6
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,06/07/2002,Fuimos a Buscar al Franco al Hospital,00:33:58,00:39:37,00:05:39,6
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,12/07/2002,Azado en la casa del Nelson,00:39:37,00:41:36,00:01:59,2|6
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,26/07/2002,Azado en la casa con la Chavela,00:41:36,00:43:58,00:02:22,3
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,16/08/2002,En los Andes con la Sandra y el Horacio,00:43:58,00:49:00,00:05:02,2|6
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,16/08/2002,En Portillo Con el Trineo,00:49:00,01:03:05,00:14:05,2|6
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,16/08/2002,El Gabriel Bailando un Trote Norteño,01:03:05,01:16:51,00:13:46,
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,17/09/2002,Azado en Parral con Lluvia y cumpleaños del Abel,01:16:51,01:24:08,00:07:17,3|4|6
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,18/09/2002,Elevando Volantin en el Estadio,01:24:08,01:32:05,00:07:57,3|4|6
+Video 28,12/04/2002,20/09/2002,02:03:24,8mm,SP,https://www.youtube.com/watch?v=RoAV3hGKkeE&ab_channel=GerardoGaona,21/09/2002,Azado en Parral y Vaile de Cueca y Musica con Cantora,01:32:05,02:03:24,00:31:19,
+Video 29,21/09/2002,16/03/2003,01:53:16,8mm,SP,https://www.youtube.com/watch?v=jTaANeZdWwk&ab_channel=GerardoGaona,22/09/2002,Azado en Parral y Vaile de Cueca y Musica con Cantora,00:00:00,00:43:36,00:00:00,3|4|6
+Video 29,21/09/2002,16/03/2003,01:53:16,8mm,SP,https://www.youtube.com/watch?v=jTaANeZdWwk&ab_channel=GerardoGaona,06/10/2002,Circo maxicano,00:43:36,01:17:27,00:33:51,
+Video 29,21/09/2002,16/03/2003,01:53:16,8mm,SP,https://www.youtube.com/watch?v=jTaANeZdWwk&ab_channel=GerardoGaona,14/10/2002,Trabajos en la casa,01:17:27,01:25:25,00:07:58,
+Video 29,21/09/2002,16/03/2003,01:53:16,8mm,SP,https://www.youtube.com/watch?v=jTaANeZdWwk&ab_channel=GerardoGaona,01/10/2002,Todos los Santos en Parral Con mi tia Clara y mi tio Eduardo,01:25:25,01:27:24,00:01:59,1|2|3|4
+Video 29,21/09/2002,16/03/2003,01:53:16,8mm,SP,https://www.youtube.com/watch?v=jTaANeZdWwk&ab_channel=GerardoGaona,23/12/2002,Navidad 2002 con el Nelson la Sandra y el Franco,01:27:24,01:45:37,00:18:13,6
+Video 29,21/09/2002,16/03/2003,01:53:16,8mm,SP,https://www.youtube.com/watch?v=jTaANeZdWwk&ab_channel=GerardoGaona,25/01/2003,La Sandra la Maggy y el Gabriel Bañandose en la Piscina,01:45:37,01:47:32,00:01:55,6
+Video 29,21/09/2002,16/03/2003,01:53:16,8mm,SP,https://www.youtube.com/watch?v=jTaANeZdWwk&ab_channel=GerardoGaona,06/03/2003,Visita de la Tia Rosa y el Tio Elardo,01:47:32,01:51:02,00:03:30,5
+Video 29,21/09/2002,16/03/2003,01:53:16,8mm,SP,https://www.youtube.com/watch?v=jTaANeZdWwk&ab_channel=GerardoGaona,17/03/2003,Regreso de Gimnacio de mi Mama,01:51:02,01:53:16,00:02:14,
+Video 30,18/10/2002,31/05/2003,01:59:05,8mm,SP,https://www.youtube.com/watch?v=gmTfIiSpbRc&ab_channel=GerardoGaona,19/10/2002,Bautizo del Alex Franco en Parral,00:00:00,00:26:16,00:00:00,2|3|4|6
+Video 30,18/10/2002,31/05/2003,01:59:05,8mm,SP,https://www.youtube.com/watch?v=gmTfIiSpbRc&ab_channel=GerardoGaona,19/10/2002,Fiesta del Bautizo,00:26:16,00:57:36,00:31:20,2|3|4|6
+Video 30,18/10/2002,31/05/2003,01:59:05,8mm,SP,https://www.youtube.com/watch?v=gmTfIiSpbRc&ab_channel=GerardoGaona,20/10/2002,Regraso a Santiago Despues del Bautizo,00:57:36,01:01:13,00:03:37,
+Video 30,18/10/2002,31/05/2003,01:59:05,8mm,SP,https://www.youtube.com/watch?v=gmTfIiSpbRc&ab_channel=GerardoGaona,21/10/2002,El Gabriel Peleando con mi Mama Por un Diente,01:01:13,01:06:14,00:05:01,
+Video 30,18/10/2002,31/05/2003,01:59:05,8mm,SP,https://www.youtube.com/watch?v=gmTfIiSpbRc&ab_channel=GerardoGaona,30/11/2002,El Gabriel Bailando de Huaso en el Complejo,01:06:14,01:18:43,00:12:29,
+Video 30,18/10/2002,31/05/2003,01:59:05,8mm,SP,https://www.youtube.com/watch?v=gmTfIiSpbRc&ab_channel=GerardoGaona,29/12/2002,Paseo a la Playa Con mi tia Clara y a un Restaurant,01:18:43,01:38:12,00:19:29,2
+Video 30,18/10/2002,31/05/2003,01:59:05,8mm,SP,https://www.youtube.com/watch?v=gmTfIiSpbRc&ab_channel=GerardoGaona,30/12/2002,El Gabriel Bañandose en la Piscina,01:38:12,01:47:38,00:09:26,
+Video 30,18/10/2002,31/05/2003,01:59:05,8mm,SP,https://www.youtube.com/watch?v=gmTfIiSpbRc&ab_channel=GerardoGaona,2003-05-31,Paseo al Cementerio de Rancagua,01:47:38,01:52:18,00:04:40,
+Video 30,18/10/2002,31/05/2003,01:59:05,8mm,SP,https://www.youtube.com/watch?v=gmTfIiSpbRc&ab_channel=GerardoGaona,2003-06-01,El Gabriel Creando Plata,01:52:18,01:59:05,00:06:47,
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,31/12/2002,Año nuevo 2003 en la casa con el Nelson y la Sandra,00:00:00,00:43:02,00:00:00,6
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,2003-01-08,Cumpleaños del Gabriel Nº 6,00:43:02,00:49:00,00:05:58,
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,09/01/2003,Cumpleaños Gerardo Nº 22,00:49:00,01:03:28,00:14:28,2|3
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,11/01/2003,Selebracion del cumpleaños del Gabriel Con Fiesta,01:03:28,01:22:12,00:18:44,2|3|4|6
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,15/01/2003,En la casa demi tia Valentina comiendo Azado,01:22:12,01:22:49,00:00:37,2|3|4
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,15/01/2003,El Isla negra con la chavela el abel el horacio y la pati,01:22:49,01:25:16,00:02:27,2|3|4
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,15/01/2003,El la Playa las Salinas,01:25:16,01:31:59,00:06:43,2|3|4
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,15/01/2003,Puesta de sol desde la casa de mi tia,01:31:59,01:34:30,00:02:31,
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,16/01/2003,Paseo al puerto de San Antonio,01:34:30,01:34:51,00:00:21,
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,16/01/2003,Paseo en Lancha,01:34:51,01:41:10,00:06:19,2|3|4
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,16/01/2003,Paseo al puerto de San Antonio,01:41:10,01:46:29,00:05:19,2|3|4
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,16/01/2003,Caleta San Pedro,01:46:29,01:48:35,00:02:06,
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,19/01/2003,En la casa demi tia Valentina comiendo Azado,01:48:35,01:53:14,00:04:39,2|3|4|8
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,19/01/2003,En la Playa las salina en otro  lado,01:53:14,01:58:31,00:05:17,2|3|4
+Video 31,30/12/2002,18/01/2003,02:02:25,8mm,SP,https://www.youtube.com/watch?v=TG8AhF1sPR4&ab_channel=GerardoGaona,2003-01-19,Puesta de sol desde la casa de mi tia,01:58:31,02:02:25,00:03:54,
+Video 32,31/01/2003,04/02/2003,00:47:44,8mm,SP,https://www.youtube.com/watch?v=QXzxMOOKyTA&ab_channel=GerardoGaona,2003-02-01,Joe Basconcellos en semana parralina,00:00:00,00:11:53,00:11:53,
+Video 32,31/01/2003,04/02/2003,00:47:44,8mm,SP,https://www.youtube.com/watch?v=QXzxMOOKyTA&ab_channel=GerardoGaona,31/01/2003,El Felipe trabajando de estatua humana en la semana parralina,00:11:53,00:14:42,00:02:49,6
+Video 32,31/01/2003,04/02/2003,00:47:44,8mm,SP,https://www.youtube.com/watch?v=QXzxMOOKyTA&ab_channel=GerardoGaona,31/01/2003,Paseo a la monta�a fuimos a pescar (no pescamos nada) terminaron todos curados,00:14:42,00:45:16,00:30:34,3|4|6
+Video 32,31/01/2003,04/02/2003,00:47:44,8mm,SP,https://www.youtube.com/watch?v=QXzxMOOKyTA&ab_channel=GerardoGaona,04/02/2003,paseo a la playa con la sandra y el nelson  fue cuando se echo a perder la camara,00:45:17,00:47:44,00:02:27,3|6
+Video 33,01/11/2002,01/05/2003,02:02:20,8mm,SP,https://www.youtube.com/watch?v=-c7grp0dWog&ab_channel=GerardoGaona,02/11/2002,El Casamiento de la Mireya,00:00:00,00:19:02,00:00:00,1|2|3|4|6
+Video 33,01/11/2002,01/05/2003,02:02:20,8mm,SP,https://www.youtube.com/watch?v=-c7grp0dWog&ab_channel=GerardoGaona,02/11/2002,La Fiesta de la Mireya,00:19:02,01:14:59,00:55:57,1|2|3|4|6
+Video 33,01/11/2002,01/05/2003,02:02:20,8mm,SP,https://www.youtube.com/watch?v=-c7grp0dWog&ab_channel=GerardoGaona,03/11/2002,Regreso a Santiago,01:14:59,01:15:38,00:00:39,
+Video 33,01/11/2002,01/05/2003,02:02:20,8mm,SP,https://www.youtube.com/watch?v=-c7grp0dWog&ab_channel=GerardoGaona,,Mi Piesa antes del Empapelado,01:15:38,01:17:27,00:01:49,
+Video 33,01/11/2002,01/05/2003,02:02:20,8mm,SP,https://www.youtube.com/watch?v=-c7grp0dWog&ab_channel=GerardoGaona,19/12/2002,El Carlos de Visita con el Brandom,01:17:27,01:22:06,00:04:39,
+Video 33,01/11/2002,01/05/2003,02:02:20,8mm,SP,https://www.youtube.com/watch?v=-c7grp0dWog&ab_channel=GerardoGaona,21/12/2002,Graduacion del Gabriel del Kinder G,01:22:06,01:46:30,00:24:24,
+Video 33,01/11/2002,01/05/2003,02:02:20,8mm,SP,https://www.youtube.com/watch?v=-c7grp0dWog&ab_channel=GerardoGaona,02/05/2003,Azado en Parral para el 1°de Mayo,01:46:30,02:02:20,00:15:50,3|4|6
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,15/02/2003,Matando un Chivo en Santa Cruz,00:00:00,00:13:08,00:00:00,1
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,15/02/2003,Cumpleaños de mi tio Eduardo,00:13:08,00:19:39,00:06:31,1|2
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,15/02/2003,Azado en Santa Cruz,00:19:39,00:26:05,00:06:26,1|2
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,16/02/2003,La Futura casa de mi tio Eduardo,00:26:05,00:27:58,00:01:53,1|2
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,16/02/2003,Disparando la Escopeta,00:27:58,00:30:23,00:02:25,1|2
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,16/02/2003,Debajo del Parron,00:30:23,00:31:35,00:01:12,1|2
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,17/02/2003,En la Piscina,00:31:35,00:33:18,00:01:43,1|2
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,17/02/2003,Paseo por los Cerros Con el Horacio La Maggy La vero,00:33:18,00:38:53,00:05:35,1|2
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,18/02/2003,Moliendo Choclo para las Humitas,00:38:53,00:50:29,00:11:36,1|2
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,18/02/2003,Disparando la Escopeta,00:50:29,00:58:10,00:07:41,1|2
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,18/02/2003,Paseando a Caballo tia Clara,00:58:10,01:19:31,00:21:21,1|2
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,21/02/2003,Cumpleaños Sorpresa de la Maggy,01:19:31,01:46:13,00:26:42,1|2
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,02/03/2003,Paseo a San Antonio por el Dia y por el Litoral,01:46:13,01:52:46,00:06:33,
+Video 34,14/02/2003,10/05/2003,01:57:07,8mm,SP,https://www.youtube.com/watch?v=3xe41H5amTU&ab_channel=GerardoGaona,11/05/2003,Azado del Dia de la Madre con el Nelson y la Sandra,01:52:46,01:57:07,00:04:21,6
+Video 35,04/04/2003,14/05/2003,02:01:54,8mm,SP,https://www.youtube.com/watch?v=B4qslg7B6fg&ab_channel=GerardoGaona,04/04/2003,Cumpleaños de mi Papa,00:00:00,00:16:36,00:00:00,2|6
+Video 35,04/04/2003,14/05/2003,02:01:54,8mm,SP,https://www.youtube.com/watch?v=B4qslg7B6fg&ab_channel=GerardoGaona,06/04/2003,Estadio Santiago Bueras Cantando la Maria Jose,00:16:36,01:37:40,01:21:04,
+Video 35,04/04/2003,14/05/2003,02:01:54,8mm,SP,https://www.youtube.com/watch?v=B4qslg7B6fg&ab_channel=GerardoGaona,17/04/2003,Semana Santa con el Nelson y las Chiquillas,01:37:40,01:42:20,00:04:40,6
+Video 35,04/04/2003,14/05/2003,02:01:54,8mm,SP,https://www.youtube.com/watch?v=B4qslg7B6fg&ab_channel=GerardoGaona,27/04/2003,Cuasimodo 2003,01:42:20,01:46:16,00:03:56,
+Video 35,04/04/2003,14/05/2003,02:01:54,8mm,SP,https://www.youtube.com/watch?v=B4qslg7B6fg&ab_channel=GerardoGaona,03/05/2003,En Parral para el 1° de mayo,01:46:16,01:50:01,00:03:45,3|4|6
+Video 35,04/04/2003,14/05/2003,02:01:54,8mm,SP,https://www.youtube.com/watch?v=B4qslg7B6fg&ab_channel=GerardoGaona,15/05/2003,Eclipse de Luna,01:50:01,02:01:54,00:11:53,
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,13/06/2003,Azado del dia del padre en la casa,00:00:00,00:03:39,00:03:39,
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,14/06/2003,Viaje a Parral en la carretera estaba lloviendo no se veia nada,00:03:39,00:05:21,00:01:42,
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,14/06/2003,En Parral estaban cocinando camarones estaban todos,00:05:21,00:13:31,00:08:10,3|4|6
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,15/06/2003,Fuimos a pescar al tranque Bullileo. El gabriel Fue por Primera vez con nosotros,00:13:31,00:21:21,00:07:50,3|4
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,21/06/2003,Azado en la casa por san Luis,00:21:21,00:23:04,00:01:43,
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,22/06/2003,Fuimos al Santuario de Sor Teresa de los Andes,00:23:04,00:27:50,00:04:46,
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,04/07/2003,Visita del tio Roberto el Jano y la Mireya El Nelson y la Sandra,00:27:50,00:29:41,00:01:51,6
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,05/07/2003,Cumpleaños del alex,00:29:41,00:46:34,00:16:53,2|6
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,22/07/2003,Elevando Cometas en Rinconada Con mi Papá y el Gabriel,00:46:34,00:49:50,00:03:16,
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,08/08/2003,El Gabriel tenia que ir disfrazado al colegio y fue de Darth Maul,00:49:50,00:50:39,00:00:49,
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,26/08/2003,Estabamos en Parral Gerardo y mi Papa. grabe al planeta martes ese fue el dia que estubo mas cerca,00:50:39,00:00:00,,
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,31/08/2003,Mi papá se quedo en Parral y nos debolbimos en tren para el Gabriel era la primera vez,00:50:39,01:00:28,00:09:49,
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,11/09/2003,Grabe las Protestas del 11 de Septiembre de Afuera de la Casa,01:00:28,01:03:14,00:02:46,
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,13/09/2003,Fuimos a pescar mas arriba de bullileo comimos azado al palo,01:03:14,01:10:01,00:06:47,4|6
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,17/09/2003,Fiestas Patrias en la casa comimos azado y el gabriel bailo cueca,01:10:01,01:13:17,00:03:16,
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,17/09/2003,Fiestas patrias en la casa de la mary,01:13:17,01:33:17,00:20:00,7
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,18/09/2003,Fuimos a una competencia folkclorica a padre hurtado compitieron 3 parejas y ninguna gano,01:33:17,01:47:05,00:13:48,7
+Video 36,12/06/2003,07/12/2003,01:49:50,8mm,SP,https://www.youtube.com/watch?v=1nFjpkWKkeo&ab_channel=GerardoGaona,08/12/2003,Fuimos a Sor Teresa de los andes,01:47:05,01:49:50,00:02:45,
+Video 37,14/10/2003,07/02/2004,01:59:58,8mm,SP,https://www.youtube.com/watch?v=keopWMOGv-c&ab_channel=GerardoGaona,2003-10-15,El Gabriel en revista de gimnacia en el CEM,00:00:00,00:08:48,00:08:48,
+Video 37,14/10/2003,07/02/2004,01:59:58,8mm,SP,https://www.youtube.com/watch?v=keopWMOGv-c&ab_channel=GerardoGaona,,Azado n la casa del tio Roberto Parral,00:08:48,00:17:22,00:08:34,3|6
+Video 37,14/10/2003,07/02/2004,01:59:58,8mm,SP,https://www.youtube.com/watch?v=keopWMOGv-c&ab_channel=GerardoGaona,00/00/00,Mi papa En El Taller,00:17:22,00:19:14,00:01:52,
+Video 37,14/10/2003,07/02/2004,01:59:58,8mm,SP,https://www.youtube.com/watch?v=keopWMOGv-c&ab_channel=GerardoGaona,23/12/2003,Navidad 2003 En Padre Hurtado en la casa de la mary,00:19:14,00:46:47,00:27:33,7
+Video 37,14/10/2003,07/02/2004,01:59:58,8mm,SP,https://www.youtube.com/watch?v=keopWMOGv-c&ab_channel=GerardoGaona,29/12/2003,Año Nuevo 2004 en la casa de la Mary,00:46:47,01:34:05,00:47:18,7
+Video 37,14/10/2003,07/02/2004,01:59:58,8mm,SP,https://www.youtube.com/watch?v=keopWMOGv-c&ab_channel=GerardoGaona,2004-01-08,Cumpleaños del Gabriel Nº 7,01:34:05,01:38:00,00:03:55,
+Video 37,14/10/2003,07/02/2004,01:59:58,8mm,SP,https://www.youtube.com/watch?v=keopWMOGv-c&ab_channel=GerardoGaona,09/01/2004,Cumpleaños Gerardo Nº 23,01:38:00,01:42:03,00:04:03,
+Video 37,14/10/2003,07/02/2004,01:59:58,8mm,SP,https://www.youtube.com/watch?v=keopWMOGv-c&ab_channel=GerardoGaona,07/02/2004,Trilla de trigo a llegua en Parral,01:42:03,01:59:58,00:17:55,6
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,13/02/2004,Santa Cruz matando un chivo blanco,00:00:00,00:10:05,00:00:00,1|2
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,13/02/2004,Azando el chivo y el Gabriel Pescando,00:10:05,00:15:35,00:05:30,1|2
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,2004-02-16,Conociendo la Plaza de SantaCruz,00:15:35,00:16:57,00:01:22,
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,16/02/2004,pescando en el Puente cerca de machihue,00:16:57,00:22:02,00:05:05,1|2
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,16/02/2004,Haciendo empanadas,00:22:02,00:28:36,00:06:34,1|2
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,17/02/2004,Con la tia Rosa recorriendo la Parcela y paseando a caballo,00:28:36,00:52:03,00:23:27,1|2|5
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,18/02/2004,Haciendo Pastel de choclo,00:52:03,00:53:05,00:01:02,1
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,19/02/2004,Paceo a la cumbre del cerro,00:53:05,01:00:59,00:07:54,1|2
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,19/02/2004,Bañandose en la piscina,01:00:59,01:01:56,00:00:57,1|2
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,19/02/2004,Foto con los hermanos de mi mama,01:01:56,01:03:34,00:01:38,1|2|13
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,20/02/2004,Cumpleaños del Isaac,01:03:34,01:20:33,00:16:59,7
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,21/02/2004,Casa de la Maria jose,01:20:33,01:26:53,00:06:20,2
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,21/02/2004,Cumpleaños de la Maggy,01:26:53,01:31:00,00:04:07,2
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,2004-02-22,llegada de la Maria jose despues de Viña,01:31:00,01:41:37,00:10:37,
+Video 38,13/02/2004,26/03/2004,01:51:00,8mm,SP,https://www.youtube.com/watch?v=_MBE-kLCs8U&ab_channel=GerardoGaona,26/03/2004,Cumpleaños del Brian,01:41:37,01:51:00,00:09:23,7
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,23/12/2004,Navidad 2004 Con el Nelson y la Sandra En Casa,00:00:00,00:00:05,00:00:00,
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,30/12/2004,Año nuevo 2005,00:00:05,00:25:11,00:25:06,
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,01/01/2005,Mi Mama y el Gabriel Bañandose en la Piscina,00:25:11,00:29:25,00:04:14,
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,07/01/2005,Plaza de Santa cruz con mi tia Maiga,00:29:25,00:30:06,00:00:41,7
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,07/02/2005,Cumpleaños del Gabriel Nº8,00:30:06,00:37:18,00:07:12,1|7
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,08/01/2005,De Almuerzo Pastel de Choclo,00:37:18,00:40:24,00:03:06,1|7
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,09/01/2005,Paseo A pie en Santa Cruz,00:40:24,00:44:39,00:04:15,1|7
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,08/01/2005,Cumpleaños Gerardo Nº26,00:44:39,00:51:05,00:06:26,1|7
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,09/01/2005,Viendo Artesania en Barriles de Vino,00:51:05,00:53:41,00:02:36,1|7
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,10/01/2005,Faenando un Chivo Café,00:53:41,01:05:35,00:11:54,1|7
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,09/01/2005,Azando elChivo,01:05:35,01:08:16,00:02:41,1|7
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,22/01/2005,Visita del Matias,01:08:16,01:09:22,00:01:06,
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,04/02/2005,Aniversario de Matrimonio de mis Padres,01:09:22,01:15:22,00:06:00,
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,17/02/2005,Accidente en la Carretera,01:15:22,01:15:56,00:00:34,
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,21/02/2005,Cumpleaños Nº32 de la Maggy,01:15:56,01:19:21,00:03:25,
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,02/04/2005,Cuasimodo 2005,01:19:21,01:30:05,00:10:44,
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,05/04/2005,Cumpleaños De Luis Gaona Nº60,01:30:05,01:37:41,00:07:36,
+Video 39,23/12/2004,05/04/2007,02:04:25,8mm,SP,https://www.youtube.com/watch?v=dFF2fJ5P5OE&ab_channel=GerardoGaona,05/04/2007,Cumpleaños De Luis Gaona Nº62 en Cartagena Con mi tia maiga y la carola,01:37:41,01:51:56,00:14:15,7
+Video 40,19/06/2005,27/07/2005,02:06:49,8mm,SP,https://www.youtube.com/watch?v=Tcqx5Mtz_2Q&ab_channel=GerardoGaona,00/00/00,Recreacion de batalla de Maipu en el Templo,00:00:00,00:53:07,00:53:07,
+Video 40,19/06/2005,27/07/2005,02:06:49,8mm,SP,https://www.youtube.com/watch?v=Tcqx5Mtz_2Q&ab_channel=GerardoGaona,19/6/2005,Celebrando San Luis,00:53:07,01:20:57,00:27:50,
+Video 40,19/06/2005,27/07/2005,02:06:49,8mm,SP,https://www.youtube.com/watch?v=Tcqx5Mtz_2Q&ab_channel=GerardoGaona,20/07/2005,El gabriel en la Escuela de Futbol,01:20:57,01:37:09,00:16:12,
+Video 40,19/06/2005,27/07/2005,02:06:49,8mm,SP,https://www.youtube.com/watch?v=Tcqx5Mtz_2Q&ab_channel=GerardoGaona,27/07/2005,El Gabriel jugando contra Florida,01:37:09,02:06:49,00:29:40,
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,17/08/2005,Obra de teatro del gabriel en el colegio,00:00:00,00:18:50,00:18:50,
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,17/09/2005,Fiestas Patrias 2005,00:18:50,00:25:15,00:06:25,6
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,18/09/2005,Paseo al Parque Ohiggins con el Nelson y la Samdra,00:25:15,00:26:43,00:01:28,6
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,19/09/2005,En el Templo viendo el desfile del Ejercito,00:26:43,01:05:45,00:39:02,
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,19/09/2005,Anticuchos en la casa,01:05:45,01:09:43,00:03:58,
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,05/10/2005,Compleaños de mi Mama,01:09:43,01:15:05,00:05:22,
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,07/12/2005,azado en Algarrobo con el Nelson y un Sobrino de el en las Cabañas del Banco,01:15:05,01:22:32,00:07:27,6
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,09/12/2005,Paseo A la Bahia de Algarrobo,01:22:32,01:35:50,00:13:18,
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,09/12/2005,Jugando Pool en Algarrobo,01:35:50,01:39:00,00:03:10,
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,20/01/2006,En Santa Cruz haciendo Azado,01:39:00,01:42:33,00:03:33,1
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,01/04/2007,Cuasimodo 2007,01:42:33,01:47:44,00:05:11,
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,07/04/2007,En Cartagena,01:47:44,01:53:47,00:06:03,
+Video 41,16/08/2005,07/04/2007,2:27:00,8mm,SP,https://www.youtube.com/watch?v=rhJxcMcFqDU&ab_channel=GerardoGaona,07/04/2007,Jugando Cartas en cartagena En la casa Arrendada,01:53:47,01:56:48,00:03:01,7
+Video 42,23/12/2005,23/12/2007,02:11:02,8mm,SP,https://www.youtube.com/watch?v=_Jdl0n2ZIz8&ab_channel=GerardoGaona,23/12/2005,Navidad Nelson Sandra Ale,00:00:00,00:43:05,00:00:00,6
+Video 42,23/12/2005,23/12/2007,02:11:02,8mm,SP,https://www.youtube.com/watch?v=_Jdl0n2ZIz8&ab_channel=GerardoGaona,30/12/2005,Año Nuevo 2006 Sra Carmen y don Jaime,00:43:05,01:05:42,00:22:37,
+Video 42,23/12/2005,23/12/2007,02:11:02,8mm,SP,https://www.youtube.com/watch?v=_Jdl0n2ZIz8&ab_channel=GerardoGaona,07/01/2006,Cumpleaños Gabiel Padrinos Patricio y Amalia,01:05:42,01:10:52,00:05:10,
+Video 42,23/12/2005,23/12/2007,02:11:02,8mm,SP,https://www.youtube.com/watch?v=_Jdl0n2ZIz8&ab_channel=GerardoGaona,09/01/2006,Cumpleaños Gerardo,01:10:52,01:14:32,00:03:40,
+Video 42,23/12/2005,23/12/2007,02:11:02,8mm,SP,https://www.youtube.com/watch?v=_Jdl0n2ZIz8&ab_channel=GerardoGaona,21/02/2006,Cumpleaños Maggy Cartagena Tia Valentina Tia Maiga,01:14:32,01:32:25,00:17:53,7|8
+Video 42,23/12/2005,23/12/2007,02:11:02,8mm,SP,https://www.youtube.com/watch?v=_Jdl0n2ZIz8&ab_channel=GerardoGaona,25/02/2006,Teresita de los Andes Abel,01:32:25,01:34:41,00:02:16,3
+Video 42,23/12/2005,23/12/2007,02:11:02,8mm,SP,https://www.youtube.com/watch?v=_Jdl0n2ZIz8&ab_channel=GerardoGaona,25/11/2006,San Antonio Tia Maiga Tia Valentina,01:34:41,01:52:00,00:17:19,7|8
+Video 42,23/12/2005,23/12/2007,02:11:02,8mm,SP,https://www.youtube.com/watch?v=_Jdl0n2ZIz8&ab_channel=GerardoGaona,01/04/2007,Teresita de los Andes,01:52:00,01:57:14,00:05:14,
+Video 42,23/12/2005,23/12/2007,02:11:02,8mm,SP,https://www.youtube.com/watch?v=_Jdl0n2ZIz8&ab_channel=GerardoGaona,00/00/00,Cuasimodo,01:57:15,02:00:16,00:03:01,
+Video 42,23/12/2005,23/12/2007,02:11:02,8mm,SP,https://www.youtube.com/watch?v=_Jdl0n2ZIz8&ab_channel=GerardoGaona,23/12/2007,Navidad 2007,02:00:17,02:11:02,00:10:45,
+Video 43,01/04/2006,18/09/2006,01:58:50,8mm,SP,https://www.youtube.com/watch?v=F4OEZfAvPu4&ab_channel=GerardoGaona,02/04/2006,FIDAE 2006,00:00:00,00:39:18,00:39:18,
+Video 43,01/04/2006,18/09/2006,01:58:50,8mm,SP,https://www.youtube.com/watch?v=F4OEZfAvPu4&ab_channel=GerardoGaona,29/07/2006,Manpato Abel Felipe,00:39:18,00:57:27,00:18:09,3|6
+Video 43,01/04/2006,18/09/2006,01:58:50,8mm,SP,https://www.youtube.com/watch?v=F4OEZfAvPu4&ab_channel=GerardoGaona,16/09/2006,Fiestas Patrias Tio Roberto,00:57:27,00:57:27,00:00:00,6
+Video 43,01/04/2006,18/09/2006,01:58:50,8mm,SP,https://www.youtube.com/watch?v=F4OEZfAvPu4&ab_channel=GerardoGaona,18/09/2006,El Clavel Plaza Maipu,00:57:27,01:37:46,00:40:19,
+Video 43,01/04/2006,18/09/2006,01:58:50,8mm,SP,https://www.youtube.com/watch?v=F4OEZfAvPu4&ab_channel=GerardoGaona,18/09/2006,Parcela Tio Lolo,01:37:46,01:58:50,00:21:04,9
+Video 44,23/12/2006,21/02/2007,02:00:00,8mm,SP,https://www.youtube.com/watch?v=2touF_DQuHU&ab_channel=GerardoGaona,22/12/2006,Navidad 2006,00:00:01,00:15:35,00:15:34,
+Video 44,23/12/2006,21/02/2007,02:00:00,8mm,SP,https://www.youtube.com/watch?v=2touF_DQuHU&ab_channel=GerardoGaona,28/12/2006,En la Playa,00:15:35,00:24:42,00:09:07,7
+Video 44,23/12/2006,21/02/2007,02:00:00,8mm,SP,https://www.youtube.com/watch?v=2touF_DQuHU&ab_channel=GerardoGaona,29/12/2006,Año Nuevo 2007,00:24:42,00:56:54,00:32:12,7
+Video 44,23/12/2006,21/02/2007,02:00:00,8mm,SP,https://www.youtube.com/watch?v=2touF_DQuHU&ab_channel=GerardoGaona,30/12/2006,Paseo en lancha San Antonio,00:56:54,01:07:54,00:11:00,7
+Video 44,23/12/2006,21/02/2007,02:00:00,8mm,SP,https://www.youtube.com/watch?v=2touF_DQuHU&ab_channel=GerardoGaona,05/01/2007,Cumpleaños Gabriel y Gerardo,01:07:54,01:31:52,00:23:58,2|9
+Video 44,23/12/2006,21/02/2007,02:00:00,8mm,SP,https://www.youtube.com/watch?v=2touF_DQuHU&ab_channel=GerardoGaona,,Paseo a Sor Teresa de los Andes,01:31:52,01:40:48,00:08:56,6
+Video 44,23/12/2006,21/02/2007,02:00:00,8mm,SP,https://www.youtube.com/watch?v=2touF_DQuHU&ab_channel=GerardoGaona,31/01/2007,Gabriel Jugando Pc Santa cruz,01:40:48,01:43:28,00:02:40,1
+Video 44,23/12/2006,21/02/2007,02:00:00,8mm,SP,https://www.youtube.com/watch?v=2touF_DQuHU&ab_channel=GerardoGaona,02/02/2007,Pescando en Los Condores Santa Cruz,01:43:28,01:48:32,00:05:04,1
+Video 44,23/12/2006,21/02/2007,02:00:00,8mm,SP,https://www.youtube.com/watch?v=2touF_DQuHU&ab_channel=GerardoGaona,21/02/2007,Cumpleaños Maggy,01:48:32,,00:00:00,
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,18/09/2007,Granja animales Plaza oeste,00:00:00,00:04:26,00:00:00,
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,19/09/2007,Azadi departamento,00:04:26,00:07:00,00:02:34,6
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,19/09/2007,Elevando volantin,00:07:00,00:11:29,00:04:29,
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,05/10/2007,Cumpleañoa Mama,00:11:29,00-.22-.03,00:00:00,
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,15/10/2007,Parral,00-.22-.03,00:29:31,00:00:00,3|4|6
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,16/10/2007,Casa Parral 2,00:29:31,00:38:32,00:09:01,
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,31/12/2007,Año Nuevo 2008,00:38:32,00:56:59,00:18:27,6
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,08/01/2008,Cumpleaños Gabriel,00:56:59,01:01:48,00:04:49,
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,10/01/2008,Cumpleaños Gerardo,01:01:48,01:10:16,00:08:28,
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,13/01/2008,Fiesta cumpleaños,01:10:16,01:47:42,00:37:26,2|6|9
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,05/02/2008,Cumpleaños Santacruz Tio Eduardo,01:47:42,01:54:40,00:06:58,1|2|3|4
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,20/02/2008,Elipse,01:54:40,01:56:28,00:01:48,
+Video 45,18/09/2007,22/02/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=2iU9O_7Ikyw,22/02/2008,Cumpleaños Maggy,01:56:28,02:03:19,00:06:51,
+Video 46,04/04/2008,31/12/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=b9DwdWOoOT0,05/04/2008,FIDAE 2008,00:00:00,00:30:10,00:00:00,
+Video 46,04/04/2008,31/12/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=b9DwdWOoOT0,06/04/2008,Cumpleaños Papa,00:30:10,00:35:23,00:05:13,
+Video 46,04/04/2008,31/12/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=b9DwdWOoOT0,01/12/2008,Mama Haciendo Pan de pascua,00:35:23,00:54:02,00:18:39,
+Video 46,04/04/2008,31/12/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=b9DwdWOoOT0,01/12/2008,Revista Gimnacia Gabriel,00:54:02,00:56:53,00:02:51,
+Video 46,04/04/2008,31/12/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=b9DwdWOoOT0,24/12/2008,Navidad 2008,00:56:53,01:20:40,00:23:47,
+Video 46,04/04/2008,31/12/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=b9DwdWOoOT0,31/12/2008,Año Nuevo 2009,01:20:40,01:43:09,00:22:29,6
+Video 46,04/04/2008,31/12/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=b9DwdWOoOT0,01/01/2009,Zoologico metropolitano,01:43:09,01:54:38,00:11:29,
+Video 47,27/09/2009,27/02/2009,02:00:00,8mm,SP,https://www.youtube.com/watch?v=0wcwSRxnoUI,28/09/2009,Inicio Vina del Mar 2009,00:00:01,00:17:26,00:17:25,
+Video 47,27/09/2009,27/02/2009,02:00:00,8mm,SP,https://www.youtube.com/watch?v=0wcwSRxnoUI,28/02/2009,Natalino,00:17:26,00:32:27,00:15:01,
+Video 47,27/09/2009,27/02/2009,02:00:00,8mm,SP,https://www.youtube.com/watch?v=0wcwSRxnoUI,08/02/2009,Final Internacional,00:32:27,00:42:35,00:10:08,
+Video 47,27/09/2009,27/02/2009,02:00:00,8mm,SP,https://www.youtube.com/watch?v=0wcwSRxnoUI,28/02/2009,Mark Anthony,00:42:35,01:47:52,01:05:17,
+Video 48,06/11/2008,31/10/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=xMAhtQbCHf8,07/11/2008,Preparando Bautizo Maira,00:00:01,00:02:00,00:01:59,3|4|6
+Video 48,06/11/2008,31/10/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=xMAhtQbCHf8,08/11/2008,Previa Bautizo Maira,00:02:00,00:04:26,00:02:26,6
+Video 48,06/11/2008,31/10/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=xMAhtQbCHf8,08/11/2008,Bautizo Maira,00:04:26,00:15:09,00:10:43,2|3|4|6
+Video 48,06/11/2008,31/10/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=xMAhtQbCHf8,08/11/2008,Fiesta Bautizo,00:15:09,00:50:23,00:35:14,2|3|4|6
+Video 48,06/11/2008,31/10/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=xMAhtQbCHf8,09/11/2008,Al otro dia del bautizo,00:50:23,00:57:38,00:07:15,3|4|6
+Video 48,06/11/2008,31/10/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=xMAhtQbCHf8,01/11/2008,Celebracion Titulacion Ing en Sonido,00:57:38,01:23:02,00:25:24,2|6
+Video 48,06/11/2008,31/10/2008,2:00:00,8mm,SP,https://www.youtube.com/watch?v=xMAhtQbCHf8,01/11/2008,Recreacion Batalla de Maipu,01:23:02,01:56:48,00:33:46,
+Video 49,07/11/2009,26/02/2010,02:00:00,8mm,SP,https://www.youtube.com/watch?v=DVoRcmG0K6M,,Mama Haciendo Pan de Pascua,00:00:01,00:28:42,00:28:41,
+Video 49,07/11/2009,26/02/2010,02:00:00,8mm,SP,https://www.youtube.com/watch?v=DVoRcmG0K6M,08/11/2009,Marck Anthony Monticello,00:28:42,01:35:09,01:06:27,
+Video 49,07/11/2009,26/02/2010,02:00:00,8mm,SP,https://www.youtube.com/watch?v=DVoRcmG0K6M,27/02/2010,Ovni despues del terremoto 27F,01:35:09,01:44:23,00:09:14,1
+Video 50,23/12/2009,31/12/2009,02:00:00,8mm,SP,https://www.youtube.com/watch?v=o_vLtquyxOE,24/12/2009,Navidad 2009,00:00:01,00:41:05,00:41:04,
+Video 50,23/12/2009,31/12/2009,02:00:00,8mm,SP,https://www.youtube.com/watch?v=o_vLtquyxOE,31/12/2009,Año Nuevo 2010,00:41:05,01:36:42,00:55:37,6
+Video 50,23/12/2009,31/12/2009,02:00:00,8mm,SP,https://www.youtube.com/watch?v=o_vLtquyxOE,10/01/2010,Cumpleaños Gerardo,01:36:42,02:02:39,00:25:57,6
+Video 51,03/04/2010,30/12/2010,02:00:00,8mm,SP,https://www.youtube.com/watch?v=G5y_hQHOhTo,04/04/2010,Fidae 2010,00:00:00,00:36:57,00:00:00,
+Video 51,03/04/2010,30/12/2010,02:00:00,8mm,SP,https://www.youtube.com/watch?v=G5y_hQHOhTo,10/04/2010,Cumpleaños Papa,00:36:57,01:07:30,00:30:33,2|6
+Video 51,03/04/2010,30/12/2010,02:00:00,8mm,SP,https://www.youtube.com/watch?v=G5y_hQHOhTo,11/04/2010,Cuasimodo,01:07:30,01:15:52,00:08:22,
+Video 51,03/04/2010,30/12/2010,02:00:00,8mm,SP,https://www.youtube.com/watch?v=G5y_hQHOhTo,24/12/2010,Navidad 2010,01:15:52,01:50:20,00:34:28,
+Video 51,03/04/2010,30/12/2010,02:00:00,8mm,SP,https://www.youtube.com/watch?v=G5y_hQHOhTo,31/12/2010,Año Nuevo 2011 Parte 1,01:50:20,02:00:48,00:10:28,6
+Video 52,27/12/2010,30/12/2011,02:00:00,8mm,SP,https://www.youtube.com/watch?v=sEo58Q02eM8,28/12/2010,Graduacion Basica Gabriel,00:00:01,00:27:53,00:27:52,
+Video 52,27/12/2010,30/12/2011,02:00:00,8mm,SP,https://www.youtube.com/watch?v=sEo58Q02eM8,31/12/2010,Año Nuevo 2011 Parte 2,00:27:53,00:48:25,00:20:32,6
+Video 52,27/12/2010,30/12/2011,02:00:00,8mm,SP,https://www.youtube.com/watch?v=sEo58Q02eM8,10/01/2010,Fiesta Cumpleaños Gerardo y Gabriel,00:48:25,01:24:31,00:36:06,2|6|9
+Video 52,27/12/2010,30/12/2011,02:00:00,8mm,SP,https://www.youtube.com/watch?v=sEo58Q02eM8,31/12/2011,Año Nuevo 2012,01:24:31,01:32:10,00:07:39,2|6

@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recuerdos Familia Gaona Castillo</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    
+    <!-- PWA Meta Tags -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#667eea">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Recuerdos Familia">
+    <link rel="apple-touch-icon" href="icon-192.png">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Recuerdos Familia Gaona Castillo</h1>
+            <div class="header-actions">
+                <button class="btn btn-secondary" onclick="document.getElementById('csvFileInput').click()">
+                    <i class="fas fa-upload"></i> Importar CSV
+                </button>
+                <button class="btn btn-success" onclick="createBackupFile()" title="Crear archivo de respaldo manualmente">
+                    <i class="fas fa-save"></i> Crear Respaldo
+                </button>
+                <button class="btn btn-danger" onclick="clearLocalStorage()" title="Limpiar datos guardados para cargar nuevo archivo">
+                    <i class="fas fa-trash"></i> Limpiar Datos
+                </button>
+                <button class="btn btn-info" onclick="openTagsManager()" title="Gestionar tags personalizados">
+                    <i class="fas fa-tags"></i> Gestionar Tags
+                </button>
+                <button class="btn btn-info" onclick="openInfoModal()" title="Información y ayuda">
+                    <i class="fas fa-question-circle"></i> Ayuda
+                </button>
+                <button class="btn btn-primary" onclick="openAddVHSModal()">
+                    <i class="fas fa-plus"></i> Agregar Nuevo VHS
+                </button>
+            </div>
+            <input type="file" id="csvFileInput" accept=".csv" style="display: none;" onchange="handleCSVImport(event)">
+        </header>
+
+        <div class="search-bar">
+            <div class="view-controls">
+                <div class="view-selector">
+                    <label for="viewMode">Vista:</label>
+                                         <select id="viewMode" onchange="changeViewMode()">
+                         <option value="grid">Cuadrícula</option>
+                         <option value="cascade">Cascada</option>
+                         <option value="three-columns">3 Columnas</option>
+                         <option value="masonry">Masonry</option>
+                     </select>
+                </div>
+            </div>
+            <div class="search-input-container">
+                <input type="text" id="searchInput" placeholder="Buscar VHS o eventos..." class="search-input">
+                <button class="btn btn-secondary" onclick="clearSearch()">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="tags-filter-container">
+                <label for="tagsFilter">Filtrar por Tags:</label>
+                <div class="tags-filter" id="tagsFilter">
+                    <!-- Los tags se cargarán dinámicamente aquí -->
+                </div>
+                <button class="btn btn-secondary btn-sm" onclick="clearTagsFilter()" title="Limpiar filtro de tags">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+        </div>
+
+        <div class="vhs-grid" id="vhsGrid">
+            <!-- Los VHS se cargarán dinámicamente aquí -->
+        </div>
+    </div>
+
+    <!-- Modal para agregar/editar VHS -->
+    <div id="vhsModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle">Agregar Nuevo VHS</h2>
+                <span class="close" onclick="closeVHSModal()">&times;</span>
+            </div>
+            <form id="vhsForm">
+                <div class="form-info">
+                    <p><i class="fas fa-info-circle"></i> Los campos marcados como "(opcional)" pueden dejarse vacíos.</p>
+                </div>
+                <div class="form-group">
+                    <label for="videoNombre">Nombre del Video:</label>
+                    <input type="text" id="videoNombre" name="videoNombre" required>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="videoDuracionTotal">Duración Total:</label>
+                        <input type="text" id="videoDuracionTotal" name="videoDuracionTotal" placeholder="HH:MM:SS" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="videoFormato">Formato:</label>
+                        <select id="videoFormato" name="videoFormato" required>
+                            <option value="8mm">8mm</option>
+                            <option value="VHS">VHS</option>
+                            <option value="Betamax">Betamax</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="videoFechaInicio">Fecha de Inicio (opcional):</label>
+                        <input type="date" id="videoFechaInicio" name="videoFechaInicio">
+                    </div>
+                    <div class="form-group">
+                        <label for="videoFechaTermino">Fecha de Término (opcional):</label>
+                        <input type="date" id="videoFechaTermino" name="videoFechaTermino">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="videoVelocidad">Velocidad:</label>
+                    <select id="videoVelocidad" name="videoVelocidad" required>
+                        <option value="SP">SP (Standard Play)</option>
+                        <option value="LP">LP (Long Play)</option>
+                        <option value="EP">EP (Extended Play)</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="youtubeLink">Link de YouTube (opcional):</label>
+                    <input type="url" id="youtubeLink" name="youtubeLink" placeholder="https://www.youtube.com/watch?v=...">
+                </div>
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary">Guardar VHS</button>
+                    <button type="button" class="btn btn-secondary" onclick="closeVHSModal()">Cancelar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal para agregar/editar eventos -->
+    <div id="eventModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="eventModalTitle">Agregar Evento</h2>
+                <span class="close" onclick="closeEventModal()">&times;</span>
+            </div>
+            <form id="eventForm">
+                <div class="form-group">
+                    <label for="eventoFecha">Fecha del Evento (opcional):</label>
+                    <input type="date" id="eventoFecha" name="eventoFecha">
+                </div>
+                <div class="form-group">
+                    <label for="eventoContenido">Descripción del Evento:</label>
+                    <textarea id="eventoContenido" name="eventoContenido" rows="3" required></textarea>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="eventoInicio">Hora de Inicio (opcional):</label>
+                        <input type="text" id="eventoInicio" name="eventoInicio" placeholder="HH:MM:SS">
+                    </div>
+                    <div class="form-group">
+                        <label for="eventoTermino">Hora de Término (opcional):</label>
+                        <input type="input" id="eventoTermino" name="eventoTermino" placeholder="HH:MM:SS">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="eventoDuracion">Duración (opcional):</label>
+                    <input type="text" id="eventoDuracion" name="eventoDuracion" placeholder="HH:MM:SS">
+                </div>
+                <div class="form-group">
+                    <label>Tags (opcional):</label>
+                    <div class="tags-selection">
+                        <!-- Los tags se cargarán dinámicamente aquí -->
+                    </div>
+                </div>
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary">Guardar Evento</button>
+                    <button type="button" class="btn btn-secondary" onclick="closeEventModal()">Cancelar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal para ver detalles del VHS -->
+    <div id="detailModal" class="modal">
+        <div class="modal-content modal-large">
+            <div class="modal-header">
+                <h2 id="detailModalTitle">Detalles del VHS</h2>
+                <span class="close" onclick="closeDetailModal()">&times;</span>
+            </div>
+            <div class="vhs-detail-content">
+                <div class="vhs-info">
+                    <h3 id="detailVHSName"></h3>
+                    <div class="vhs-meta-horizontal">
+                        <div class="meta-item-horizontal">
+                            <strong>Duración:</strong> <span id="detailVHSDuration"></span>
+                        </div>
+                        <div class="meta-item-horizontal">
+                            <strong>Formato:</strong> <span id="detailVHSFormat"></span>
+                        </div>
+                        <div class="meta-item-horizontal">
+                            <strong>Período:</strong> <span id="detailVHSPeriod"></span>
+                        </div>
+                        <div class="meta-item-horizontal">
+                            <strong>Velocidad:</strong> <span id="detailVHSSpeed"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="events-section">
+                    <div class="events-header">
+                        <h4>Eventos Registrados</h4>
+                        <div class="events-actions">
+                            <button class="btn btn-primary btn-sm" onclick="openAddEventModal()">
+                                <i class="fas fa-plus"></i> Agregar Evento
+                            </button>
+                            <button class="btn btn-secondary btn-sm" onclick="toggleEventEditMode()">
+                                <i class="fas fa-edit"></i> Editar Eventos
+                            </button>
+                        </div>
+                    </div>
+                    <div class="events-list" id="eventsList">
+                        <!-- Los eventos se cargarán dinámicamente aquí -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal para gestionar tags -->
+    <div id="tagsModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Gestionar Tags Personalizados</h2>
+                <span class="close" onclick="closeTagsModal()">&times;</span>
+            </div>
+            <div class="tags-content">
+                <div class="tags-export">
+                    <h3>Gestión de Tags</h3>
+                    <div class="export-actions">
+                        <button class="btn btn-success" onclick="exportTags()">
+                            <i class="fas fa-download"></i> Exportar Tags
+                        </button>
+                        <button class="btn btn-secondary" onclick="document.getElementById('tagsFileInput').click()">
+                            <i class="fas fa-upload"></i> Importar Tags
+                        </button>
+                        <button class="btn btn-primary" onclick="openCreateTagModal()">
+                            <i class="fas fa-plus"></i> Crear Nuevo Tag
+                        </button>
+                        <input type="file" id="tagsFileInput" accept=".json" style="display: none;" onchange="importTags(event)">
+                    </div>
+                </div>
+                
+                <div class="tags-list">
+                    <h3>Tags Existentes</h3>
+                    <div id="tagsList" class="tags-list-scrollable">
+                        <!-- Los tags se cargarán dinámicamente aquí -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal para crear nuevo tag -->
+    <div id="createTagModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Crear Nuevo Tag</h2>
+                <span class="close" onclick="closeCreateTagModal()">&times;</span>
+            </div>
+            <form id="createTagForm">
+                <div class="form-group">
+                    <label for="createTagName">Nombre del Tag:</label>
+                    <input type="text" id="createTagName" name="createTagName" required placeholder="Ej: Familia, Evento, Persona">
+                </div>
+                <div class="form-group">
+                    <label for="createTagColor">Color:</label>
+                    <input type="color" id="createTagColor" name="createTagColor" value="#667eea" required>
+                </div>
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-plus"></i> Crear Tag
+                    </button>
+                    <button type="button" class="btn btn-secondary" onclick="closeCreateTagModal()">Cancelar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal para editar tags -->
+    <div id="editTagModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Editar Tag</h2>
+                <span class="close" onclick="closeEditTagModal()">&times;</span>
+            </div>
+            <form id="editTagForm">
+                <div class="form-group">
+                    <label for="editTagName">Nombre del Tag:</label>
+                    <input type="text" id="editTagName" name="editTagName" required>
+                </div>
+                <div class="form-group">
+                    <label for="editTagColor">Color:</label>
+                    <input type="color" id="editTagColor" name="editTagColor" required>
+                </div>
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-save"></i> Guardar Cambios
+                    </button>
+                    <button type="button" class="btn btn-secondary" onclick="closeEditTagModal()">Cancelar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal de información y ayuda -->
+    <div id="infoModal" class="modal">
+        <div class="modal-content modal-large">
+            <div class="modal-header">
+                <h2><i class="fas fa-info-circle"></i> Información y Ayuda</h2>
+                <span class="close" onclick="closeInfoModal()">&times;</span>
+            </div>
+            <div class="info-content">
+                <div class="info-section">
+                    <h3><i class="fas fa-upload"></i> Importar Datos</h3>
+                    <ul>
+                        <li><strong>Importar CSV:</strong> Para cargar un archivo como dvd2.txt, primero haz clic en "Limpiar Datos" y luego "Importar CSV"</li>
+                        <li><strong>Formatos compatibles:</strong> Archivos CSV y TXT con separación por comas</li>
+                        <li><strong>URLs de YouTube:</strong> Se preservan automáticamente al importar y exportar</li>
+                    </ul>
+                </div>
+                
+                <div class="info-section">
+                    <h3><i class="fas fa-save"></i> Respaldos y Exportación</h3>
+                    <ul>
+                        <li><strong>Crear Respaldo:</strong> Los respaldos se crean manualmente con el botón correspondiente</li>
+                        <li><strong>Archivo único:</strong> Cada respaldo reemplaza el anterior, manteniendo solo un archivo de respaldo</li>
+                        <li><strong>Exportar CSV:</strong> Genera un archivo con todos los datos actuales</li>
+                        <li><strong>Formato automático:</strong> Las URLs de YouTube se incluyen automáticamente</li>
+                    </ul>
+                </div>
+                
+                <div class="info-section">
+                    <h3><i class="fab fa-youtube"></i> Funciones de YouTube</h3>
+                    <ul>
+                        <li><strong>Enlaces automáticos:</strong> Si un VHS tiene enlace de YouTube, cada evento tendrá un botón rojo</li>
+                        <li><strong>Reproducción precisa:</strong> El botón lleva directamente al inicio del evento en el video</li>
+                        <li><strong>Icono indicativo:</strong> Los VHS con YouTube muestran un icono en la tarjeta</li>
+                    </ul>
+                </div>
+                
+                <div class="info-section">
+                    <h3><i class="fas fa-tags"></i> Sistema de Tags</h3>
+                    <ul>
+                        <li><strong>Tags personalizados:</strong> Crea, edita y elimina tags para organizar eventos</li>
+                        <li><strong>Colores personalizables:</strong> Cada tag puede tener un color único</li>
+                        <li><strong>Filtrado avanzado:</strong> Filtra eventos por tags y texto simultáneamente</li>
+                        <li><strong>Exportar/Importar:</strong> Guarda y comparte tu configuración de tags</li>
+                    </ul>
+                </div>
+                
+                <div class="info-section">
+                    <h3><i class="fas fa-search"></i> Búsqueda y Filtros</h3>
+                    <ul>
+                        <li><strong>Búsqueda de texto:</strong> Busca en nombres de VHS y contenido de eventos</li>
+                        <li><strong>Filtro por tags:</strong> Selecciona uno o más tags para filtrar</li>
+                        <li><strong>Filtros combinados:</strong> Usa texto y tags simultáneamente</li>
+                        <li><strong>Resultados destacados:</strong> Los términos de búsqueda se resaltan</li>
+                    </ul>
+                </div>
+                
+                <div class="info-section">
+                    <h3><i class="fas fa-eye"></i> Modos de Vista</h3>
+                    <ul>
+                        <li><strong>Cuadrícula:</strong> Vista estándar con tarjetas organizadas</li>
+                        <li><strong>Cascada:</strong> Vista compacta con tarjetas expandibles</li>
+                        <li><strong>3 Columnas:</strong> Vista fija en tres columnas</li>
+                        <li><strong>Masonry:</strong> Vista de bloques con alturas variables</li>
+                    </ul>
+                </div>
+                
+                <div class="info-section">
+                    <h3><i class="fas fa-edit"></i> Edición de Contenido</h3>
+                    <ul>
+                        <li><strong>Edición de VHS:</strong> Modifica información general del VHS</li>
+                        <li><strong>Gestión de eventos:</strong> Agrega, edita y elimina eventos</li>
+                        <li><strong>Modo de edición:</strong> Activa/desactiva botones de edición en los detalles</li>
+                        <li><strong>Validación automática:</strong> Los formularios validan los datos ingresados</li>
+                    </ul>
+                </div>
+                
+                <div class="info-section">
+                    <h3><i class="fas fa-database"></i> Almacenamiento</h3>
+                    <ul>
+                        <li><strong>Guardado automático:</strong> Los cambios se guardan automáticamente en el navegador</li>
+                        <li><strong>Persistencia local:</strong> Los datos se mantienen entre sesiones</li>
+                        <li><strong>Limpiar datos:</strong> Usa esta opción para empezar con datos nuevos</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
