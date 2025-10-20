@@ -861,8 +861,11 @@ function createEventElement(evento, index) {
     eventElement.innerHTML = `
         <div class="event-detail-compact">
             <div class="event-detail-header-compact">
-                <div class="event-detail-date-compact">${formatDate(evento.evento_fecha)}</div>
                 <div class="event-detail-times-compact">
+                    <div class="time-item-compact">
+                        <span class="time-label-compact">Fecha:</span>
+                        <span class="time-value-compact">${formatDate(evento.evento_fecha)}</span>
+                    </div>
                     <div class="time-item-compact">
                         <span class="time-label-compact">Inicio:</span>
                         <span class="time-value-compact">${formatTime(evento.evento_inicio)}</span>

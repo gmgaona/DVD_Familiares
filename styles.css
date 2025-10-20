@@ -1047,14 +1047,6 @@ form {
     gap: 8px;
 }
 
-.event-detail-date-compact {
-    font-size: 0.7rem;
-    color: #2d3748;
-    font-weight: 600;
-    white-space: nowrap;
-    flex-shrink: 0;
-}
-
 .event-detail-actions-compact {
     display: flex;
     gap: 3px;
@@ -1071,10 +1063,10 @@ form {
 
 .event-detail-times-compact {
     display: flex;
-    gap: 8px;
+    gap: 6px;
     align-items: center;
     flex: 1;
-    justify-content: center;
+    justify-content: flex-start;
     flex-wrap: wrap;
 }
 
@@ -1458,7 +1450,7 @@ form {
     }
     
     .event-detail-times-compact {
-        gap: 6px;
+        gap: 4px;
         justify-content: flex-start;
         flex-wrap: wrap;
     }
