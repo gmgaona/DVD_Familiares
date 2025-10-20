@@ -107,3 +107,4 @@ Si tienes problemas:
 4. Verifica que el iPhone tenga suficiente espacio de almacenamiento
 
 ¡Disfruta de tus recuerdos familiares desde cualquier lugar! 📱✨
+

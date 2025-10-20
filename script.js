@@ -859,32 +859,38 @@ function createEventElement(evento, index) {
     }
     
     eventElement.innerHTML = `
-        <div class="event-detail-header">
-            <div class="event-detail-date">${formatDate(evento.evento_fecha)}</div>
-            <div class="event-detail-actions">
-                ${youtubeLink}
-                <button class="btn btn-secondary btn-sm event-edit-btn" onclick="editEvent(${index})" style="display: none;">
-                    <i class="fas fa-edit"></i>
-                </button>
-                <button class="btn btn-danger btn-sm event-delete-btn" onclick="deleteEvent(${index})" style="display: none;">
-                    <i class="fab fa-trash"></i>
-                </button>
+        <div class="event-detail-compact">
+            <div class="event-detail-header-compact">
+                <div class="event-detail-date-compact">${formatDate(evento.evento_fecha)}</div>
+                <div class="event-detail-times-compact">
+                    <div class="time-item-compact">
+                        <span class="time-label-compact">Inicio:</span>
+                        <span class="time-value-compact">${formatTime(evento.evento_inicio)}</span>
+                    </div>
+                    <div class="time-item-compact">
+                        <span class="time-label-compact">Término:</span>
+                        <span class="time-value-compact">${formatTime(evento.evento_termino)}</span>
+                    </div>
+                    <div class="time-item-compact">
+                        <span class="time-label-compact">Duración:</span>
+                        <span class="time-value-compact">${formatTime(evento.evento_duracion)}</span>
+                    </div>
+                </div>
+                <div class="event-detail-actions-compact">
+                    <button class="btn btn-secondary btn-sm event-edit-btn" onclick="editEvent(${index})" style="display: none;">
+                        <i class="fas fa-edit"></i>
+                    </button>
+                    <button class="btn btn-danger btn-sm event-delete-btn" onclick="deleteEvent(${index})" style="display: none;">
+                        <i class="fab fa-trash"></i>
+                    </button>
+                </div>
             </div>
-        </div>
-        <div class="event-detail-content">${evento.evento_contenido}</div>
-        ${renderEventTags(evento)}
-        <div class="event-detail-time">
-            <div class="time-item">
-                <div class="time-label">Inicio</div>
-                <div class="time-value">${formatTime(evento.evento_inicio)}</div>
-            </div>
-            <div class="time-item">
-                <div class="time-label">Término</div>
-                <div class="time-value">${formatTime(evento.evento_termino)}</div>
-            </div>
-            <div class="time-item">
-                <div class="time-label">Duración</div>
-                <div class="time-value">${formatTime(evento.evento_duracion)}</div>
+            <div class="event-detail-content-compact">
+                <div class="event-content-text">${evento.evento_contenido}</div>
+                <div class="event-content-actions">
+                    ${youtubeLink}
+                    ${renderEventTags(evento)}
+                </div>
             </div>
         </div>
     `;
